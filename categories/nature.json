@@ -4,6 +4,19 @@
   "name": "Nature",
   "decks": [
     {
+      "key": "bay-area-birds",
+      "name": "Bay Area Birds: Sight and Sound",
+      "description": "See it and hear it: the everyday birds of Bay Area yards, parks, chaparral, and shoreline. Photo ID cards plus song and call mnemonics, with field marks and lookalike tips in the details.",
+      "cardCount": 59,
+      "topics": [
+        "birds",
+        "bay-area",
+        "nature",
+        "identification"
+      ],
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/California_Scrub_Jay%2C_Richmond%2C_Contra_Costa%2C_California_(30644196597).jpg?width=640"
+    },
+    {
       "key": "birds-eastern-north-america",
       "name": "Bird ID: Eastern North America",
       "description": "Identify 50 of the most common backyard, park, and roadside birds of eastern North America from photos. Details give the scientific name, key field marks, and how to separate lookalikes.",

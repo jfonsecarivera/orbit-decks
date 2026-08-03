@@ -1,0 +1,775 @@
+{
+  "key": "bay-area-birds",
+  "version": 1,
+  "name": "Bay Area Birds: Sight and Sound",
+  "description": "See it and hear it: the everyday birds of Bay Area yards, parks, chaparral, and shoreline. Photo ID cards plus song and call mnemonics, with field marks and lookalike tips in the details.",
+  "category": "Nature",
+  "topics": [
+    "birds",
+    "bay-area",
+    "nature",
+    "identification"
+  ],
+  "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/California_Scrub_Jay%2C_Richmond%2C_Contra_Costa%2C_California_(30644196597).jpg?width=640",
+  "ttsLang": null,
+  "notes": [
+    {
+      "key": "california-scrub-jay",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "California scrub-jay",
+        "extra": "Aphelocoma californica. Crestless azure-blue jay with a gray-brown back, whitish throat, and partial blue necklace. Loud, bold, and everywhere in Berkeley; buries acorns all fall. Steller's jay is the darker, crested one up in the conifers.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/California_Scrub_Jay%2C_Richmond%2C_Contra_Costa%2C_California_(30644196597).jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "annas-hummingbird",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Anna's hummingbird",
+        "extra": "Calypte anna. Male's whole crown and throat flash iridescent rose-pink. The Bay Area's year-round hummingbird, singing a scratchy, buzzy song from exposed perches even in December.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna's_hummingbird.jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "annas-dive-chirp",
+      "model": "basic",
+      "fields": {
+        "front": "The loud single \"chirp!\" at the bottom of an Anna's hummingbird's courtship dive is made with what?",
+        "back": "Its outer tail feathers.",
+        "extra": "The male climbs high, plummets past the female, and the airflow through spread tail feathers produces the sound — shown by UC Berkeley researchers. Not a vocal sound at all."
+      },
+      "tags": [
+        "birds::yard",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "house-finch",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "House finch",
+        "extra": "Haemorhous mexicanus. Streaky brown finch; males wear raspberry-red on the head and chest. The default small bird at Bay Area feeders, with a long cheerful warble that trails off in a slurred \"wheer\".",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/House_finch_(33688)2.jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "california-towhee",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "California towhee",
+        "extra": "Melozone crissalis. The default plain matte-brown bird of Berkeley yards, with a rusty patch under the tail. Scratches on the ground, usually in faithful pairs, giving sharp metallic \"chink\" notes. Its flashy cousin is the spotted towhee.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Melozone_crissalis_103257560.jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "black-phoebe",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Black phoebe",
+        "extra": "Sayornis nigricans. Dapper sooty-black flycatcher with a crisp white belly; pumps its tail while perched, then sallies out for insects and returns to the same perch. Loves patios, fountains, and creek edges.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_phoebe_(Sayornis_nigricans_aquaticus)_Palopo.jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "mourning-dove",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Mourning dove",
+        "extra": "Zenaida macroura. Slim, soft gray-brown dove with a long pointed white-edged tail and black wing spots. Its wings whistle sharply when it bursts into flight.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Av_Mourning_Dove_JG.jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "mourning-dove-coo",
+      "model": "basic",
+      "fields": {
+        "front": "The soft, owl-like daytime cooing (\"coo-OO-oo, oo, oo\") from a Bay Area wire or rooftop is which bird?",
+        "back": "Mourning dove.",
+        "extra": "The classic beginner trap: it sounds like an owl but owls rarely call in daylight. The mournful coo is the male's song and the source of the bird's name."
+      },
+      "tags": [
+        "birds::yard",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "american-crow",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "American crow",
+        "extra": "Corvus brachyrhynchos. All-black, with a fan-shaped tail and the familiar \"caw\". Berkeley's crows stream overhead in big evening flights to communal roosts. The heavier, croaking version is the common raven.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Corvus-brachyrhynchos-001.jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "common-raven",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Common raven",
+        "extra": "Corvus corax. Crow's giant cousin: massive bill, shaggy throat feathers, and long wings built for soaring. Increasingly common right in Bay Area cities, not just wild coast.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "raven-croak",
+      "model": "basic",
+      "fields": {
+        "front": "A deep, hollow croaking \"gronk-gronk\" overhead means which corvid?",
+        "back": "Common raven.",
+        "extra": "Crows caw, ravens croak. If the voice sounds like it needs a throat lozenge, it's a raven."
+      },
+      "tags": [
+        "birds::yard",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "raven-crow-tail",
+      "model": "basic",
+      "fields": {
+        "front": "In flight overhead, what tail shape separates a raven from a crow?",
+        "back": "A raven's tail is wedge-shaped (diamond); a crow's is a rounded fan.",
+        "extra": "Backup checks: ravens soar and glide on longer wings; crows flap steadily. Ravens travel in pairs, crows in mobs."
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "american-robin",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "American robin",
+        "extra": "Turdus migratorius. Brick-red breast, gray back, upright hop-and-stop posture on lawns. Its rich caroling \"cheerily, cheer-up, cheerio\" is often the first song of a Bay Area dawn.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/American_robin_(71307).jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "dark-eyed-junco",
+      "model": "basic",
+      "fields": {
+        "front": "Small sparrow hopping under Bay Area feeders: crisp black hood, warm brown back, pink bill, white outer tail feathers flashing as it flits away. What is it?",
+        "back": "Dark-eyed junco (the \"Oregon\" form).",
+        "extra": "Junco hyemalis. Our West Coast birds wear the black executioner's hood over a brown body; eastern birds are plain slate-gray. Song is a simple loose one-pitch trill. Abundant in Berkeley year-round."
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "chestnut-backed-chickadee",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Chestnut-backed chickadee",
+        "extra": "Poecile rufescens. Tiny acrobat with a dark cap and bib and a rich chestnut back — the only chickadee you'll normally see in the Bay Area. Constantly moving through oaks and conifers, often with bushtit flocks.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Chestnut-backed_Chickadee_2154ab_(cropped).jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "chickadee-wheeze",
+      "model": "basic",
+      "fields": {
+        "front": "Which Bay Area bird gives a fast, hoarse, wheezy \"chick-a-dee-dee\" but never a clear whistled song?",
+        "back": "Chestnut-backed chickadee.",
+        "extra": "Unlike the black-capped chickadee of the East and far North, the chestnut-backed has no whistled \"fee-bee\" song — its scratchy chatter is all you get."
+      },
+      "tags": [
+        "birds::yard",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "european-starling",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "European starling",
+        "extra": "Sturnus vulgaris. Chunky, short-tailed blackbird-shaped bird: iridescent purple-green with a yellow bill in breeding plumage, white-spangled in winter. Introduced; wheezes, clicks, and mimics other birds and car alarms.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_starling_(Sturnus_vulgaris)_breeding_male_Marken.jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "northern-mockingbird",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Northern mockingbird",
+        "extra": "Mimus polyglottos. Slim gray bird with big white wing flashes that show in flight and in its wing-lifting display. Holds a territory year-round and defends it loudly.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Mockingbird_in_Bay_Ridge_(85082).jpg?width=640"
+      },
+      "tags": [
+        "birds::yard"
+      ]
+    },
+    {
+      "key": "mockingbird-night",
+      "model": "basic",
+      "fields": {
+        "front": "A bird running through an endless medley — each phrase repeated about three times — at 2 a.m. under a Berkeley streetlight is which species?",
+        "back": "Northern mockingbird.",
+        "extra": "The triple repeat is the tell: mockingbirds cycle each borrowed phrase a few times before switching. Unmated males famously sing all night in spring."
+      },
+      "tags": [
+        "birds::yard",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "california-quail",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "California quail",
+        "extra": "Callipepla californica. Plump gray-brown quail with a comma-shaped head plume and scaled belly — California's state bird. Runs in coveys through brush in Tilden and other parks.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/California_quail_(Callipepla_californica)_male_Tricao.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "quail-chicago",
+      "model": "basic",
+      "fields": {
+        "front": "Which Bay Area bird shouts a loud three-syllable \"Chi-ca-GO!\" from the brush?",
+        "back": "California quail.",
+        "extra": "The male's assembly call, with the accent on the last syllable. Handy for a Chicago transplant: the bird that calls your old hometown is the state bird of your new one."
+      },
+      "tags": [
+        "birds::park",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "wild-turkey",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Wild turkey",
+        "extra": "Meleagris gallopavo. Introduced to California and now brazenly at home on Berkeley streets and the Cal campus, roosting in tall trees at night. Gobbling toms and trains of poults are a local institution.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/20260428_tom_wild_turkey_matthaei_botanical_gardens_PD08952.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "stellers-jay",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Steller's jay",
+        "extra": "Cyanocitta stelleri. Deep blue with a sooty-black head and tall shaggy crest — the only crested jay in the West. In the Bay Area it's the jay of the conifers: Berkeley Hills, Tilden, Muir Woods. Harsh \"shack-shack-shack\" calls.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Steller's_Jay_flagstaff_arizona.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "jay-hawk-imitation",
+      "model": "basic",
+      "fields": {
+        "front": "You hear a perfect red-tailed hawk scream coming from inside a tree canopy. What should you suspect?",
+        "back": "A jay imitating a red-tail.",
+        "extra": "Both Steller's jays and scrub-jays do convincing red-tail impressions, possibly to scatter competitors from food. A real red-tail screams from the open sky, not from dense foliage."
+      },
+      "tags": [
+        "birds::park",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "spotted-towhee",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Spotted towhee",
+        "extra": "Pipilo maculatus. Black hood, rufous flanks, white-spotted wings, red eye. Makes a racket two-foot-scratching in leaf litter; call is a rising catlike \"mreee\". Towhee siblings: this is the flashy one, the California towhee is the plain brown one.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Spotted_Towhee_(32684403303).jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "oak-titmouse",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Oak titmouse",
+        "extra": "Baeolophus inornatus. Small, plain gray, with a short pointed crest — the personality of a chickadee in an unmarked uniform. True to its name, it sticks to oak woodland and sings a whistled \"peter-peter-peter\".",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Baeolophus_inornatus_-San_Luis_Obispo%2C_California%2C_USA-8_(3).jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "bushtit",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Bushtit",
+        "extra": "Psaltriparus minimus. Tiny gray puffball with a long tail, almost never alone: flocks of 10-40 tumble through hedges trading soft \"spit\" contact notes, then move on. Weaves a hanging sock of a nest.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/BushtitMale.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "bewicks-wren",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Bewick's wren",
+        "extra": "Thryomanes bewickii. Brown wren with a bold white eyebrow and a long tail it cocks and flicks sideways. Sings a loud, varied, buzzy-then-sweet song from Bay Area brush piles and gardens.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Bewicks_Wren.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "wrentit",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Wrentit",
+        "extra": "Chamaea fasciata. Plain gray-brown skulker with a pale eye and a long, usually-cocked tail; barely flies and almost never leaves dense chaparral. You'll hear a hundred for every one you see.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Wrentit_-_Sobrante_Ridge_Regional_Preserve%2C_California.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "wrentit-bouncing-ball",
+      "model": "basic",
+      "fields": {
+        "front": "Which chaparral bird's song is a series of pips accelerating into a trill, like a ping-pong ball settling on a table?",
+        "back": "Wrentit.",
+        "extra": "The \"bouncing ball\" is the signature sound of California chaparral — Tilden's scrub hillsides ring with it. Learn it and you've identified a bird you may never actually see."
+      },
+      "tags": [
+        "birds::park",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "song-sparrow",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Song sparrow",
+        "extra": "Melospiza melodia. Streaky brown sparrow whose breast streaks converge in a central dark spot. Common in Bay Area creek brush and marsh edges; pumps its tail in flight. Sparrow siblings: crowned sparrows have bold head stripes instead of breast streaks.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Song_sparrow_in_Prospect_Park_(93031).jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "song-sparrow-song",
+      "model": "basic",
+      "fields": {
+        "front": "Which sparrow's song starts with two or three clear notes then tumbles into a jumble — remembered as \"maids-maids-maids, put-on-your-tea-kettle-ettle-ettle\"?",
+        "back": "Song sparrow.",
+        "extra": "The clear opening notes are the tell; every male sings his own variations on the theme, all year, from an exposed perch."
+      },
+      "tags": [
+        "birds::park",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "white-crowned-sparrow",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "White-crowned sparrow",
+        "extra": "Zonotrichia leucophrys. Clean gray sparrow with a boldly black-and-white striped crown and a pink-orange bill. Winter flocks blanket Bay Area parks; some coastal birds stay all year. Sibling: golden-crowned has a yellow forehead patch, not stripes.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/White-crowned-Sparrow.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "golden-crowned-sparrow",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Golden-crowned sparrow",
+        "extra": "Zonotrichia atricapilla. Dusky winter sparrow with a dull yellow central crown patch bordered in black. Arrives from Alaska each fall, scratches under Bay Area feeders all winter, gone by May. Sibling: white-crowned wears crisp zebra stripes instead.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Zonotrichia_atricapilla_-British_Columbia%2C_Canada-8.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "golden-crowned-oh-dear-me",
+      "model": "basic",
+      "fields": {
+        "front": "Which winter sparrow sings three clear descending whistles, remembered as \"oh, dear, me\"?",
+        "back": "Golden-crowned sparrow.",
+        "extra": "The minor-key lament drifts from Bay Area hedges all winter. Gold Rush miners heard it as \"no gold here\"."
+      },
+      "tags": [
+        "birds::park",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "lesser-goldfinch",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Lesser goldfinch",
+        "extra": "Spinus psaltria. Tiny yellow-bellied finch; males have a black cap and greenish back. The Bay Area's everyday goldfinch, giving plaintive wheezy calls and jangly song from treetops. The bigger, brighter American goldfinch is scarcer here.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Lesser_Goldfinch_(_Eastern_race)_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_(42881554344).jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "western-bluebird",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Western bluebird",
+        "extra": "Sialia mexicana. Deep blue head and wings over a rusty-orange chest. Perches on fences and low branches in open Bay Area parkland, dropping to the grass for insects; often checks out nest boxes.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Western_bluebird_(male).jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "cedar-waxwing",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Cedar waxwing",
+        "extra": "Bombycilla cedrorum. Sleek crested bird with a black mask and a yellow-tipped tail, looking airbrushed. Winter flocks descend on Bay Area berry trees, strip them, and vanish; listen for high thin \"sreee\" calls overhead.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington's_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_(39997434862).jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "acorn-woodpecker",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Acorn woodpecker",
+        "extra": "Melanerpes formicivorus. Clown-faced woodpecker: white eye, red cap, harlequin black-and-white pattern. Lives in noisy family groups that drill thousands of acorn holes into 'granary' trees and poles all over East Bay oak country.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "acorn-waka",
+      "model": "basic",
+      "fields": {
+        "front": "Which woodpecker laughs a raucous \"waka-waka-waka\" from Bay Area oaks?",
+        "back": "Acorn woodpecker.",
+        "extra": "The call sounds like cartoon laughter and gives away the whole colony at once."
+      },
+      "tags": [
+        "birds::park",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "northern-flicker",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Northern flicker",
+        "extra": "Colaptes auratus. Big brown woodpecker with a black chest crescent and spotted belly; our western 'red-shafted' birds flash salmon-red under the wings and tail, and the white rump shows in flight. Feeds on the ground, eating ants.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Male%20Red%20Shafted%20Flicker%20-%20-%20Colaptes%20cafer.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "downy-woodpecker",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Downy woodpecker",
+        "extra": "Dryobates pubescens. Sparrow-sized black-and-white woodpecker with a white back stripe and stubby bill; males add a red nape spot. Bay Area lookalike: Nuttall's woodpecker has a barred (striped) back with no white patch.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Dryobates_pubescens_UL_03.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "red-winged-blackbird",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Red-winged blackbird",
+        "extra": "Agelaius phoeniceus. Males are jet black with red-and-yellow shoulder patches, flared while singing a gurgling \"conk-la-reee!\" from cattails. Fills every Bay Area marsh, including the Berkeley waterfront.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-Winged_Blackbird.png?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "brewers-blackbird",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Brewer's blackbird",
+        "extra": "Euphagus cyanocephalus. The parking-lot blackbird: males glossy black with a purple-green sheen and a staring yellow eye, females plain brown with a dark eye. Struts around Bay Area cafes and lots begging crumbs.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Brewers_Blackbird_Esquimalt_Lagoon.jpg?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "killdeer",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Killdeer",
+        "extra": "Charadrius vociferus. Slender plover with two black chest bands, at home on ballfields and gravel lots far from water. Screams its own name — \"kill-deer!\" — and lures intruders from its nest with a fake broken-wing act.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Killdeer_Heislerville.png?width=640"
+      },
+      "tags": [
+        "birds::park"
+      ]
+    },
+    {
+      "key": "great-blue-heron",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Great blue heron",
+        "extra": "Ardea herodias. Four feet of gray-blue patience, standing statue-still in Bay Area shallows and even hunting gophers in park meadows. Flies with slow wingbeats and its neck folded in an S, croaking hoarsely when flushed.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/GreatBlueHeronInARiver.jpg?width=640"
+      },
+      "tags": [
+        "birds::water"
+      ]
+    },
+    {
+      "key": "great-egret",
+      "model": "basic",
+      "fields": {
+        "front": "A tall, pure-white heron on the bay shore with a yellow bill and all-black legs and feet is which species?",
+        "back": "Great egret.",
+        "extra": "Ardea alba. Egret siblings: great egret = yellow bill, black feet; snowy egret = black bill, yellow feet. Size helps too — the great is nearly heron-sized."
+      },
+      "tags": [
+        "birds::water"
+      ]
+    },
+    {
+      "key": "snowy-egret",
+      "model": "basic",
+      "fields": {
+        "front": "A small white heron with a black bill, black legs, and bright yellow feet — 'golden slippers' — is which species?",
+        "back": "Snowy egret.",
+        "extra": "Egretta thula. The yellow feet are the clincher, often used to stir up prey in the shallows. Mirror-image sibling: the great egret has a yellow bill and black feet."
+      },
+      "tags": [
+        "birds::water"
+      ]
+    },
+    {
+      "key": "brown-pelican",
+      "model": "basic",
+      "fields": {
+        "front": "Huge gray-brown seabirds gliding in single file just above the water, then plunge-diving headfirst — which species?",
+        "back": "Brown pelican.",
+        "extra": "Pelecanus occidentalis. A conservation comeback story (DDT nearly wiped them out). The bay's other pelican, the American white, is bigger, swims and scoops instead, and never dives."
+      },
+      "tags": [
+        "birds::water"
+      ]
+    },
+    {
+      "key": "double-crested-cormorant",
+      "model": "basic",
+      "fields": {
+        "front": "The blackish waterbird perched on Bay pilings with its wings spread wide to dry is which species?",
+        "back": "Double-crested cormorant.",
+        "extra": "Nannopterum auritum. Its feathers soak through (less oil means less buoyancy for chasing fish underwater), so it must hang itself out to dry. Swims low with an up-tilted hooked bill; big colonies nest on the Bay Bridge."
+      },
+      "tags": [
+        "birds::water"
+      ]
+    },
+    {
+      "key": "western-gull",
+      "model": "basic",
+      "fields": {
+        "front": "The default large gull of the bay and coast — dark slate back, pink legs, heavy yellow bill with a red spot — is which species?",
+        "back": "Western gull.",
+        "extra": "Larus occidentalis. The year-round resident breeder; winter brings a confusing crowd of visiting gull species, but the dark-backed, pink-legged local is this one. Chicks peck the red bill spot to beg food."
+      },
+      "tags": [
+        "birds::water"
+      ]
+    },
+    {
+      "key": "osprey",
+      "model": "basic",
+      "fields": {
+        "front": "A white-bellied raptor with a dark eye-stripe hovers over the bay, then plunges feet-first for a fish. What is it?",
+        "back": "Osprey.",
+        "extra": "Pandion haliaetus. Flies on crooked M-shaped wings; nests on cranes, pilings, and light towers along the Richmond and Oakland waterfront. Feet-first plunge = osprey; head-first = brown pelican."
+      },
+      "tags": [
+        "birds::water"
+      ]
+    },
+    {
+      "key": "turkey-vulture",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Turkey vulture",
+        "extra": "Cathartes aura. The Bay Area's constant overhead glider: holds its two-toned wings in a shallow V and teeters side to side, rarely flapping. Tiny naked red head. Steady flat wings and powerful flaps mean hawk or eagle instead.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey_vulture_(Cathartes_aura)_Orange_Walk.jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "red-tailed-hawk",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Red-tailed hawk",
+        "extra": "Buteo jamaicensis. Bulky soaring hawk with a brick-red tail (adults) and a streaky belly band; the raptor on freeway light poles and fence posts everywhere in the Bay Area.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-tailed_Hawk_(45812546121).jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "red-tail-scream",
+      "model": "basic",
+      "fields": {
+        "front": "The long, raspy, descending scream — \"keeeeer!\" — used in movies for every eagle belongs to which bird?",
+        "back": "Red-tailed hawk.",
+        "extra": "Hollywood dubs it over bald eagles, whose real voice is a weak chirping. If you hear it from inside a tree canopy, suspect a mimicking jay."
+      },
+      "tags": [
+        "birds::raptor",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "coopers-hawk",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Cooper's hawk",
+        "extra": "Astur cooperii. The backyard bird-hunter: long banded tail, short rounded wings, flap-flap-glide flight. If a hawk ambushes your feeder or dashes through Berkeley trees after songbirds, it's this accipiter, not a red-tail.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Accipiter_cooperii_m_Sam_Smith_Toronto3.jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "peregrine-campanile",
+      "model": "basic",
+      "fields": {
+        "front": "Which raptor famously nests on UC Berkeley's Campanile?",
+        "back": "Peregrine falcon.",
+        "extra": "The 'Cal Falcons' nest cam is a Berkeley obsession. Peregrines are the fastest animals on Earth, stooping on pigeons at over 200 mph; they also nest on Bay Area bridges and towers."
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "great-horned-owl-hoot",
+      "model": "basic",
+      "fields": {
+        "front": "Deep, muffled hoots at dusk in a stuttered rhythm — \"Who's awake? Me too\" — belong to which owl?",
+        "back": "Great horned owl.",
+        "extra": "Bubo virginianus. Pairs duet from Bay Area eucalyptus and pine groves, the female's hoots higher-pitched. Owl siblings: the barn owl never hoots — it screeches."
+      },
+      "tags": [
+        "birds::night",
+        "birds::song"
+      ]
+    },
+    {
+      "key": "barn-owl-screech",
+      "model": "basic",
+      "fields": {
+        "front": "A long, harsh, hissing screech overhead on a Bay Area night — no hooting at all — is which owl?",
+        "back": "Barn owl.",
+        "extra": "Tyto alba. A ghostly white-faced owl that hunts over parks and fields and nests in palms and building cavities all over Berkeley. Owl siblings: hoots mean great horned, screeches mean barn owl."
+      },
+      "tags": [
+        "birds::night",
+        "birds::song"
+      ]
+    }
+  ]
+}
