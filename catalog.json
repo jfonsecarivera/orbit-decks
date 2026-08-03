@@ -11,8 +11,8 @@
     {
       "key": "geography",
       "name": "Geography",
-      "deckCount": 5,
-      "rev": "003cb4f5d04d",
+      "deckCount": 6,
+      "rev": "feb332a8e10f",
       "file": "categories/geography.json"
     },
     {
@@ -215,6 +215,11 @@
       "key": "alekhine-defense",
       "version": 4,
       "file": "decks/alekhine-defense.json"
+    },
+    {
+      "key": "bay-area-geography",
+      "version": 1,
+      "file": "decks/bay-area-geography.json"
     },
     {
       "key": "best-picture-winners",

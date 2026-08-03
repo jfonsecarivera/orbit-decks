@@ -1,0 +1,220 @@
+{
+  "key": "bay-area-geography",
+  "version": 1,
+  "name": "Bay Area Geography",
+  "description": "Get oriented as a Bay Area newcomer: the bay-centered mental map, the regions around it, the bridges that link them, and the transit systems that cross them.",
+  "category": "Geography",
+  "topics": [
+    "geography",
+    "bay-area",
+    "san-francisco"
+  ],
+  "coverImage": null,
+  "ttsLang": null,
+  "notes": [
+    {
+      "key": "ocean-is-west",
+      "model": "basic",
+      "fields": {
+        "front": "Standing anywhere in San Francisco, the Pacific Ocean lies in which direction?",
+        "back": "West.",
+        "extra": "The bay is on the opposite side, to the east. Same trick as Chicago's lake, mirrored: water on the west edge means you're facing the ocean, not the bay."
+      },
+      "tags": [
+        "bay-area::orientation"
+      ]
+    },
+    {
+      "key": "sf-peninsula-tip",
+      "model": "basic",
+      "fields": {
+        "front": "San Francisco sits on what kind of landform?",
+        "back": "The northern tip of a peninsula.",
+        "extra": "Pacific to the west, bay to the east, the Golden Gate strait to the north. The city is boxed in by water on three sides, which is why it stays only 7x7 miles."
+      },
+      "tags": [
+        "bay-area::orientation"
+      ]
+    },
+    {
+      "key": "east-bay-berkeley-oakland",
+      "model": "basic",
+      "fields": {
+        "front": "Berkeley and Oakland are in which Bay Area region?",
+        "back": "The East Bay.",
+        "extra": "Everything across the bay to the east of San Francisco: Oakland, Berkeley, and their surrounding cities."
+      },
+      "tags": [
+        "bay-area::regions"
+      ]
+    },
+    {
+      "key": "north-bay-marin",
+      "model": "basic",
+      "fields": {
+        "front": "Marin County belongs to which Bay Area region?",
+        "back": "The North Bay.",
+        "extra": "Cross the Golden Gate Bridge and you are in Marin; keep going north for Napa and Sonoma wine country."
+      },
+      "tags": [
+        "bay-area::regions"
+      ]
+    },
+    {
+      "key": "peninsula-region",
+      "model": "basic",
+      "fields": {
+        "front": "The stretch of suburbs running south from San Francisco along the bay is called what?",
+        "back": "The Peninsula.",
+        "extra": "San Mateo, Redwood City, Palo Alto. Locals mean these suburbs, not San Francisco itself, even though the city sits on the same landmass."
+      },
+      "tags": [
+        "bay-area::regions"
+      ]
+    },
+    {
+      "key": "south-bay-silicon-valley",
+      "model": "basic",
+      "fields": {
+        "front": "\"Silicon Valley\" mostly overlaps with which Bay Area region?",
+        "back": "The South Bay.",
+        "extra": "The Santa Clara Valley at the bay's southern end: San Jose, Santa Clara, Cupertino, Mountain View."
+      },
+      "tags": [
+        "bay-area::regions"
+      ]
+    },
+    {
+      "key": "san-jose-largest",
+      "model": "basic",
+      "fields": {
+        "front": "Which Bay Area city has the largest population?",
+        "back": "San Jose.",
+        "extra": "Roughly a million people, more than San Francisco. It anchors the South Bay."
+      },
+      "tags": [
+        "bay-area::regions"
+      ]
+    },
+    {
+      "key": "bay-bridge-connects",
+      "model": "basic",
+      "fields": {
+        "front": "Which bridge carries traffic between San Francisco and Oakland?",
+        "back": "The Bay Bridge.",
+        "extra": "The commuter workhorse, carrying I-80. Tourists photograph the Golden Gate; commuters sit in traffic on the Bay Bridge."
+      },
+      "tags": [
+        "bay-area::bridges"
+      ]
+    },
+    {
+      "key": "golden-gate-bridge-connects",
+      "model": "basic",
+      "fields": {
+        "front": "The Golden Gate Bridge connects San Francisco to which county?",
+        "back": "Marin County.",
+        "extra": "It is the gateway north, not east: going to Oakland means the Bay Bridge, never the Golden Gate."
+      },
+      "tags": [
+        "bay-area::bridges"
+      ]
+    },
+    {
+      "key": "golden-gate-strait",
+      "model": "basic",
+      "fields": {
+        "front": "Apart from the bridge named after it, what is \"the Golden Gate\" itself?",
+        "back": "The strait where the bay opens into the Pacific.",
+        "extra": "The bay's only outlet to the ocean. The strait was named before the bridge existed, and the fog pours in through it."
+      },
+      "tags": [
+        "bay-area::bridges"
+      ]
+    },
+    {
+      "key": "treasure-island",
+      "model": "basic",
+      "fields": {
+        "front": "Which island sits in the middle of the bay, halfway along the Bay Bridge?",
+        "back": "Treasure Island.",
+        "extra": "Man-made for the 1939 world's fair. It is attached to the natural Yerba Buena Island, which the bridge actually tunnels through."
+      },
+      "tags": [
+        "bay-area::bridges"
+      ]
+    },
+    {
+      "key": "what-is-bart",
+      "model": "basic",
+      "fields": {
+        "front": "What is BART?",
+        "back": "The Bay Area's regional metro rail system (Bay Area Rapid Transit).",
+        "extra": "Links San Francisco, the East Bay, and SFO airport. Think regional rail between cities, not a city subway."
+      },
+      "tags": [
+        "bay-area::transit"
+      ]
+    },
+    {
+      "key": "transbay-tube",
+      "model": "basic",
+      "fields": {
+        "front": "How does BART cross the bay between San Francisco and Oakland?",
+        "back": "Through an underwater tunnel, the Transbay Tube.",
+        "extra": "Not over a bridge: the tube sits on the bay floor, which is why trains get loud on that stretch."
+      },
+      "tags": [
+        "bay-area::transit"
+      ]
+    },
+    {
+      "key": "caltrain-peninsula",
+      "model": "basic",
+      "fields": {
+        "front": "Which train line runs down the Peninsula from San Francisco to San Jose?",
+        "back": "Caltrain.",
+        "extra": "BART barely touches the Peninsula (only as far as SFO/Millbrae); Caltrain is how you rail south."
+      },
+      "tags": [
+        "bay-area::transit"
+      ]
+    },
+    {
+      "key": "what-is-muni",
+      "model": "basic",
+      "fields": {
+        "front": "What is Muni?",
+        "back": "San Francisco's own city transit system (buses, streetcars, cable cars).",
+        "extra": "Muni moves you within SF; BART moves you between cities. The two share some downtown stations."
+      },
+      "tags": [
+        "bay-area::transit"
+      ]
+    },
+    {
+      "key": "the-city-means-sf",
+      "model": "basic",
+      "fields": {
+        "front": "When Bay Area locals say \"the City\", which city do they mean?",
+        "back": "San Francisco.",
+        "extra": "Even people in San Jose, a bigger city, say it. \"SF\" is fine too; \"San Fran\" marks you as a newcomer."
+      },
+      "tags": [
+        "bay-area::culture"
+      ]
+    },
+    {
+      "key": "fog-west-side",
+      "model": "basic",
+      "fields": {
+        "front": "Which side of San Francisco gets most of the fog?",
+        "back": "The west side, facing the Pacific.",
+        "extra": "Fog rolls in off the ocean, so the Sunset and Richmond stay gray while the Mission and East Bay stay sunny. September and October are the warm months."
+      },
+      "tags": [
+        "bay-area::orientation"
+      ]
+    }
+  ]
+}

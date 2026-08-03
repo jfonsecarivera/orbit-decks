@@ -4,6 +4,18 @@
   "name": "Geography",
   "decks": [
     {
+      "key": "bay-area-geography",
+      "name": "Bay Area Geography",
+      "description": "Get oriented as a Bay Area newcomer: the bay-centered mental map, the regions around it, the bridges that link them, and the transit systems that cross them.",
+      "cardCount": 17,
+      "topics": [
+        "geography",
+        "bay-area",
+        "san-francisco"
+      ],
+      "coverImage": null
+    },
+    {
       "key": "flags-of-the-world",
       "name": "Flags of the World",
       "description": "All 197 national flags: every UN member and observer state, plus Kosovo and Taiwan, with notes on the lookalike pairs.",
