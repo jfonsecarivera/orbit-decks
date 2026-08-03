@@ -1,8 +1,8 @@
 {
   "key": "bay-area-geography",
-  "version": 1,
+  "version": 2,
   "name": "Bay Area Geography",
-  "description": "Get oriented as a Bay Area newcomer: the bay-centered mental map, the regions around it, the bridges that link them, and the transit systems that cross them.",
+  "description": "Get oriented as a Bay Area newcomer: the bay-centered mental map, the regions around it, the bridges that link them, the transit systems that cross them, and the East Bay essentials for daily life.",
   "category": "Geography",
   "topics": [
     "geography",
@@ -37,12 +37,60 @@
       ]
     },
     {
+      "key": "berkeley-uphill-east",
+      "model": "basic",
+      "fields": {
+        "front": "Walking uphill in Berkeley means you are heading in which direction?",
+        "back": "East, toward the Berkeley Hills.",
+        "extra": "Downhill is always west toward the bay: the East Bay's version of the ocean-is-west trick. Locals call the low bayside neighborhoods \"the flats\" and everything up top \"the hills\"."
+      },
+      "tags": [
+        "bay-area::orientation"
+      ]
+    },
+    {
       "key": "east-bay-berkeley-oakland",
       "model": "basic",
       "fields": {
         "front": "Berkeley and Oakland are in which Bay Area region?",
         "back": "The East Bay.",
         "extra": "Everything across the bay to the east of San Francisco: Oakland, Berkeley, and their surrounding cities."
+      },
+      "tags": [
+        "bay-area::regions"
+      ]
+    },
+    {
+      "key": "alameda-county",
+      "model": "basic",
+      "fields": {
+        "front": "Berkeley and Oakland are in which county?",
+        "back": "Alameda County.",
+        "extra": "Counties matter here: they run elections, courts, and public health. County siblings: cross the hills eastward and you are in Contra Costa County."
+      },
+      "tags": [
+        "bay-area::regions"
+      ]
+    },
+    {
+      "key": "caldecott-contra-costa",
+      "model": "basic",
+      "fields": {
+        "front": "Driving east from Berkeley or Oakland \"through the tunnel\" puts you in which county?",
+        "back": "Contra Costa County.",
+        "extra": "The Caldecott Tunnel carries Highway 24 through the hills to Orinda, Lafayette, and Walnut Creek. \"Through the tunnel\" is the local shorthand for that whole hotter, suburban side."
+      },
+      "tags": [
+        "bay-area::regions"
+      ]
+    },
+    {
+      "key": "emeryville",
+      "model": "basic",
+      "fields": {
+        "front": "Which small city sits on the bay shore between Berkeley and Oakland?",
+        "back": "Emeryville.",
+        "extra": "The East Bay's big-box shopping stop (IKEA, Bay Street) and home of Pixar. You pass it every time you head for the Bay Bridge."
       },
       "tags": [
         "bay-area::regions"
@@ -133,6 +181,18 @@
       ]
     },
     {
+      "key": "richmond-san-rafael-bridge",
+      "model": "basic",
+      "fields": {
+        "front": "Which bridge takes you from the East Bay to Marin without going through San Francisco?",
+        "back": "The Richmond-San Rafael Bridge.",
+        "extra": "Carries I-580 across the bay's northern arm. From Berkeley it is the direct route to Marin's trails and the coast."
+      },
+      "tags": [
+        "bay-area::bridges"
+      ]
+    },
+    {
       "key": "treasure-island",
       "model": "basic",
       "fields": {
@@ -142,6 +202,30 @@
       },
       "tags": [
         "bay-area::bridges"
+      ]
+    },
+    {
+      "key": "alcatraz",
+      "model": "basic",
+      "fields": {
+        "front": "Which bay island is the famous former federal prison?",
+        "back": "Alcatraz.",
+        "extra": "\"The Rock\", sitting alone off the San Francisco waterfront, prison until 1963. Island siblings: Treasure Island carries the Bay Bridge; Angel Island is the big green park."
+      },
+      "tags": [
+        "bay-area::islands"
+      ]
+    },
+    {
+      "key": "angel-island",
+      "model": "basic",
+      "fields": {
+        "front": "What is the largest natural island in San Francisco Bay?",
+        "back": "Angel Island.",
+        "extra": "A ferry-reached state park off Tiburon, once the \"Ellis Island of the West\" immigration station. Big and green, unlike barren little Alcatraz."
+      },
+      "tags": [
+        "bay-area::islands"
       ]
     },
     {
@@ -193,12 +277,60 @@
       ]
     },
     {
+      "key": "ac-transit",
+      "model": "basic",
+      "fields": {
+        "front": "Which agency runs the East Bay's local buses?",
+        "back": "AC Transit.",
+        "extra": "Transit siblings: Muni is SF's system, BART is the regional rail, AC Transit is your Berkeley/Oakland bus. Its transbay lines also cross the Bay Bridge into SF."
+      },
+      "tags": [
+        "bay-area::transit"
+      ]
+    },
+    {
+      "key": "oak-airport",
+      "model": "basic",
+      "fields": {
+        "front": "Which major airport is in the East Bay?",
+        "back": "Oakland (OAK).",
+        "extra": "From Berkeley usually the easy airport; SFO means crossing the bay. Third sibling: SJC, down in San Jose."
+      },
+      "tags": [
+        "bay-area::transit"
+      ]
+    },
+    {
+      "key": "i80-east-sacramento",
+      "model": "basic",
+      "fields": {
+        "front": "I-80 East out of the Bay Area is the road to which state capital?",
+        "back": "Sacramento.",
+        "extra": "And beyond it, the Sierra and Lake Tahoe: the classic winter weekend drive. The same I-80 westbound is Berkeley's freeway to the Bay Bridge."
+      },
+      "tags": [
+        "bay-area::transit"
+      ]
+    },
+    {
       "key": "the-city-means-sf",
       "model": "basic",
       "fields": {
         "front": "When Bay Area locals say \"the City\", which city do they mean?",
         "back": "San Francisco.",
         "extra": "Even people in San Jose, a bigger city, say it. \"SF\" is fine too; \"San Fran\" marks you as a newcomer."
+      },
+      "tags": [
+        "bay-area::culture"
+      ]
+    },
+    {
+      "key": "the-town-means-oakland",
+      "model": "basic",
+      "fields": {
+        "front": "When East Bay locals say \"the Town\", which city do they mean?",
+        "back": "Oakland.",
+        "extra": "The proud counterpart to \"the City\" for San Francisco; you'll see \"Town\" on Oakland merch everywhere."
       },
       "tags": [
         "bay-area::culture"
@@ -214,6 +346,66 @@
       },
       "tags": [
         "bay-area::orientation"
+      ]
+    },
+    {
+      "key": "inland-heat",
+      "model": "basic",
+      "fields": {
+        "front": "What happens to summer temperatures as you move inland, away from the Pacific?",
+        "back": "They rise sharply.",
+        "extra": "The ocean is the Bay Area's air conditioner: on the same July day SF sits in the 60s, Berkeley the 70s, Walnut Creek the 90s. Why \"through the tunnel\" means bring shorts."
+      },
+      "tags": [
+        "bay-area::orientation"
+      ]
+    },
+    {
+      "key": "hayward-fault",
+      "model": "basic",
+      "fields": {
+        "front": "Which earthquake fault runs directly under Berkeley and the East Bay hills?",
+        "back": "The Hayward Fault.",
+        "extra": "It passes right through Cal's Memorial Stadium. Fault siblings: the San Andreas is the famous coastal one; the Hayward is the one under your feet."
+      },
+      "tags": [
+        "bay-area::geology"
+      ]
+    },
+    {
+      "key": "san-andreas-west",
+      "model": "basic",
+      "fields": {
+        "front": "The San Andreas Fault runs along which side of the Bay Area?",
+        "back": "The western, coastal side, down the Peninsula.",
+        "extra": "Source of the 1906 San Francisco quake. In Berkeley the fault under your feet is the Hayward, not the San Andreas."
+      },
+      "tags": [
+        "bay-area::geology"
+      ]
+    },
+    {
+      "key": "mount-diablo",
+      "model": "basic",
+      "fields": {
+        "front": "Which big mountain rises east of the East Bay hills, over Contra Costa County?",
+        "back": "Mount Diablo.",
+        "extra": "3,849 ft, the giant on the eastern horizon from any East Bay high point. Peak siblings: Diablo is east; Tamalpais is north, across the bay in Marin."
+      },
+      "tags": [
+        "bay-area::landmarks"
+      ]
+    },
+    {
+      "key": "mount-tamalpais",
+      "model": "basic",
+      "fields": {
+        "front": "Which peak dominates the Marin skyline, seen looking north across the bay?",
+        "back": "Mount Tamalpais (Mount Tam).",
+        "extra": "The \"sleeping lady\" silhouette above the Golden Gate, and the birthplace of mountain biking. Peak siblings: Tam is north in Marin; Diablo is east in Contra Costa."
+      },
+      "tags": [
+        "bay-area::landmarks"
       ]
     }
   ]
