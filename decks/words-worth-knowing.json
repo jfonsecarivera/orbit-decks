@@ -1,6 +1,6 @@
 {
   "key": "words-worth-knowing",
-  "version": 4,
+  "version": 5,
   "name": "Words Worth Knowing",
   "description": "Uncommon English words caught in the wild, one card each: see the word, say what it means. Extras carry the etymology and the near-miss word each one gets confused with (furor is not fervor, stupor is not torpor). A deck built to grow as new words turn up.",
   "category": "Language",
@@ -61,6 +61,16 @@
         "extra": "From Greek *apo-* plus *theos*, 'god'; Rome formally deified emperors after death, which is the literal sense the modern one borrows from. Said uh-pah-thee-OH-sis, plural *apotheoses*. Close to *epitome* but not the same: an epitome is the perfect example of a type, an apotheosis is the peak, with glorification attached."
       },
       "tags": ["words::apotheosis"]
+    },
+    {
+      "key": "recondite-meaning",
+      "model": "basic",
+      "fields": {
+        "front": "What does **recondite** mean?",
+        "back": "Dealing with a subject so obscure that hardly anyone knows it.",
+        "extra": "From Latin *recondere*, 'to hide away' - knowledge stored out of sight. Said REK-uhn-dyte, or ri-KON-dyte. Distinguish the neighbors: *abstruse* is hard to understand, *arcane* is secret and kept to initiates, *recondite* is simply far off the beaten track."
+      },
+      "tags": ["words::recondite"]
     }
   ]
 }
