@@ -4,8 +4,8 @@
     {
       "key": "language",
       "name": "Language",
-      "deckCount": 3,
-      "rev": "04af9c3470c3",
+      "deckCount": 4,
+      "rev": "4f349dff5dd9",
       "file": "categories/language.json"
     },
     {
@@ -540,6 +540,11 @@
       "key": "who-directed-it",
       "version": 1,
       "file": "decks/who-directed-it.json"
+    },
+    {
+      "key": "words-worth-knowing",
+      "version": 1,
+      "file": "decks/words-worth-knowing.json"
     },
     {
       "key": "world-capitals",
