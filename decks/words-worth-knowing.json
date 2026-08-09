@@ -1,6 +1,6 @@
 {
   "key": "words-worth-knowing",
-  "version": 2,
+  "version": 3,
   "name": "Words Worth Knowing",
   "description": "Uncommon English words caught in the wild, one card each: see the word, say what it means. Extras carry the etymology and the near-miss word each one gets confused with (furor is not fervor, stupor is not torpor). A deck built to grow as new words turn up.",
   "category": "Language",
@@ -41,6 +41,16 @@
         "extra": "From Latin *beatus*, 'blessed, happy'. Capitalized, the Beatitudes are the blessings Jesus pronounces at the opening of the Sermon on the Mount (Matthew 5:3-12, each line beginning 'Blessed are'). Not *beatification*, which is the Church declaring a dead person 'Blessed' on the way to sainthood."
       },
       "tags": ["words::beatitude"]
+    },
+    {
+      "key": "scrupulousness-meaning",
+      "model": "basic",
+      "fields": {
+        "front": "What does **scrupulousness** mean?",
+        "back": "Painstaking care to get things both exactly right and morally right.",
+        "extra": "From Latin *scrupulus*, 'a small sharp stone' - the pebble in the shoe of the conscience, which is why the word covers precision and principle at once. *Meticulousness* is only the precision half. Note also *scrupulosity*, the clinical term for guilt over moral or religious failings taken to a pathological extreme."
+      },
+      "tags": ["words::scrupulousness"]
     }
   ]
 }
