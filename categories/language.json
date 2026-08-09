@@ -45,8 +45,8 @@
     {
       "key": "words-worth-knowing",
       "name": "Words Worth Knowing",
-      "description": "Uncommon English words caught in the wild and pinned down properly. Each word gets three passes: what it means, how it sits in a real sentence, and which near-miss word it keeps getting confused with (furor is not fervor, stupor is not torpor). A deck built to grow as new words turn up.",
-      "cardCount": 10,
+      "description": "Uncommon English words caught in the wild, one card each: see the word, say what it means. Extras carry the etymology and the near-miss word each one gets confused with (furor is not fervor, stupor is not torpor). A deck built to grow as new words turn up.",
+      "cardCount": 3,
       "topics": [
         "vocabulary",
         "english",

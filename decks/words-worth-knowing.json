@@ -1,8 +1,8 @@
 {
   "key": "words-worth-knowing",
-  "version": 1,
+  "version": 2,
   "name": "Words Worth Knowing",
-  "description": "Uncommon English words caught in the wild and pinned down properly. Each word gets three passes: what it means, how it sits in a real sentence, and which near-miss word it keeps getting confused with (furor is not fervor, stupor is not torpor). A deck built to grow as new words turn up.",
+  "description": "Uncommon English words caught in the wild, one card each: see the word, say what it means. Extras carry the etymology and the near-miss word each one gets confused with (furor is not fervor, stupor is not torpor). A deck built to grow as new words turn up.",
   "category": "Language",
   "topics": [
     "vocabulary",
@@ -18,26 +18,7 @@
       "fields": {
         "front": "What does **furor** mean?",
         "back": "An outbreak of public anger or excitement over something.",
-        "extra": "From Latin *furor*, 'rage', from *furere*, 'to rage'. British English spells it *furore* and says it in three syllables (fyoo-ROR-ee), borrowed back through Italian; American English keeps the two-syllable Latin form."
-      },
-      "tags": ["words::furor"]
-    },
-    {
-      "key": "furor-usage",
-      "model": "cloze",
-      "fields": {
-        "text": "The retracted study set off a public {{c1::furor}} that followed its authors for years.",
-        "extra": "The crowd is built into the word: a furor happens among people, which is why a private grievance never is one."
-      },
-      "tags": ["words::furor"]
-    },
-    {
-      "key": "furor-vs-fervor",
-      "model": "basic",
-      "fields": {
-        "front": "**Furor** or **fervor**: which one is the crowd's uproar?",
-        "back": "Furor; fervor is intensity of feeling.",
-        "extra": "Fervor is from Latin *fervere*, 'to boil' - heat inside one person. Furor is noise outside, among many. A preacher speaks with fervor and may cause a furor."
+        "extra": "From Latin *furor*, 'rage', from *furere*, 'to rage'. Not *fervor*, which is from *fervere*, 'to boil' - heat inside one person, where a furor is noise outside among many. British English spells it *furore* and says it in three syllables (fyoo-ROR-ee)."
       },
       "tags": ["words::furor"]
     },
@@ -47,26 +28,7 @@
       "fields": {
         "front": "What does **stupor** mean?",
         "back": "A state of near-unconsciousness in which someone barely responds to anything around them.",
-        "extra": "From Latin *stupere*, 'to be stunned' - the same root behind *stupid* and *stupendous*. Clinically it names a specific level of consciousness: rousable only by vigorous, repeated stimulation, one step above coma."
-      },
-      "tags": ["words::stupor"]
-    },
-    {
-      "key": "stupor-usage",
-      "model": "cloze",
-      "fields": {
-        "text": "He sat through the whole meeting in a {{c1::stupor}}, answering only when someone said his name twice.",
-        "extra": "Note the usual frame: a person is *in* a stupor, and something put them there - drink, grief, exhaustion, a blow to the head."
-      },
-      "tags": ["words::stupor"]
-    },
-    {
-      "key": "stupor-vs-torpor",
-      "model": "basic",
-      "fields": {
-        "front": "**Stupor** or **torpor**: which one is dulled awareness rather than dulled activity?",
-        "back": "Stupor; torpor is sluggishness and inactivity.",
-        "extra": "Torpor fits an animal in winter dormancy, the whole body slowed to a crawl. Stupor fits a mind that will not come back to the surface."
+        "extra": "From Latin *stupere*, 'to be stunned' - the same root behind *stupid* and *stupendous*. Not *torpor*, which is dulled activity rather than dulled awareness: torpor fits an animal in winter dormancy, stupor fits a mind that will not come back to the surface."
       },
       "tags": ["words::stupor"]
     },
@@ -76,36 +38,7 @@
       "fields": {
         "front": "What does **beatitude** mean?",
         "back": "Supreme blessedness or perfect happiness.",
-        "extra": "From Latin *beatus*, 'blessed, happy'. It names a serene, exalted state, not ordinary cheerfulness, so it reads as overstatement when used for a good mood."
-      },
-      "tags": ["words::beatitude"]
-    },
-    {
-      "key": "beatitude-usage",
-      "model": "cloze",
-      "fields": {
-        "text": "She came back from the retreat with a look of {{c1::beatitude}} that she would not explain to anyone.",
-        "extra": "Most often attached to a face, a smile, or an expression: the word describes blessedness visible from the outside."
-      },
-      "tags": ["words::beatitude"]
-    },
-    {
-      "key": "beatitudes-sermon",
-      "model": "basic",
-      "fields": {
-        "front": "Capitalized, **the Beatitudes** name what passage?",
-        "back": "The blessings Jesus pronounces at the opening of the Sermon on the Mount.",
-        "extra": "Matthew 5:3-12, each line beginning 'Blessed are' - the poor in spirit, the meek, the merciful. The name comes from the *beati* that starts each line in the Latin Vulgate."
-      },
-      "tags": ["words::beatitude"]
-    },
-    {
-      "key": "beatitude-vs-beatification",
-      "model": "basic",
-      "fields": {
-        "front": "**Beatitude** or **beatification**: which one is an act the Catholic Church performs?",
-        "back": "Beatification; beatitude is a state of blessedness.",
-        "extra": "Beatification declares a dead person 'Blessed' and is the step before canonization as a saint. A beatitude is not conferred by anyone."
+        "extra": "From Latin *beatus*, 'blessed, happy'. Capitalized, the Beatitudes are the blessings Jesus pronounces at the opening of the Sermon on the Mount (Matthew 5:3-12, each line beginning 'Blessed are'). Not *beatification*, which is the Church declaring a dead person 'Blessed' on the way to sainthood."
       },
       "tags": ["words::beatitude"]
     }
