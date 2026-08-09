@@ -5,7 +5,7 @@
       "key": "language",
       "name": "Language",
       "deckCount": 4,
-      "rev": "460030a5d054",
+      "rev": "4e0a33469dee",
       "file": "categories/language.json"
     },
     {
@@ -543,7 +543,7 @@
     },
     {
       "key": "words-worth-knowing",
-      "version": 3,
+      "version": 4,
       "file": "decks/words-worth-knowing.json"
     },
     {
