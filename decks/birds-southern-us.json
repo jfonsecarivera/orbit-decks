@@ -1,0 +1,731 @@
+{
+  "key": "birds-southern-us",
+  "version": 1,
+  "name": "Bird ID: Southern United States",
+  "description": "Identify 55 birds that define the American South from photos: Gulf Coast wading birds, swamp warblers, pinewoods specialists, and South Texas tropicals. Pairs with the Eastern deck, with no repeats. Details give the scientific name, key field marks, and lookalike tips.",
+  "category": "Nature",
+  "topics": [
+    "birds",
+    "nature",
+    "identification"
+  ],
+  "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Male_Painted_Bunting_Singing.jpg?width=640",
+  "ttsLang": null,
+  "notes": [
+    {
+      "key": "painted-bunting",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Painted bunting",
+        "extra": "Passerina ciris. Male is often called the most colorful bird in North America: blue head, red underparts and eye-ring, lime-green back. Female is plain lime green, the only all-green finch-like bird in the East.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Male_Painted_Bunting_Singing.jpg?width=640"
+      },
+      "tags": [
+        "birds::songbird"
+      ]
+    },
+    {
+      "key": "brown-pelican",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Brown pelican",
+        "extra": "Pelecanus occidentalis. Huge gray-brown seabird with a long pouched bill that plunge-dives headfirst for fish. Louisiana's state bird. The American white pelican is white and scoops fish while swimming instead.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Brown_pelican_in_flight_(Bodega_Bay).jpg?width=640"
+      },
+      "tags": [
+        "birds::waterbird"
+      ]
+    },
+    {
+      "key": "roseate-spoonbill",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Roseate spoonbill",
+        "extra": "Platalea ajaja. Pink wader with a flat, spoon-tipped bill it sweeps side to side through shallow water. Adults have a bare greenish head. Often mistaken for a flamingo at a distance.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Roseate_Spoonbill_-_Myakka_River_State_Park.jpg?width=640"
+      },
+      "tags": [
+        "birds::wader"
+      ]
+    },
+    {
+      "key": "anhinga",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Anhinga",
+        "extra": "Anhinga anhinga. The \"snakebird\": swims with only its snaky neck above water and spears fish on a straight, dagger-like bill. Perches with wings spread to dry. Double-crested cormorant has a hooked bill tip.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Anhinga_anhinga_-Costa_Rica-8.jpg?width=640"
+      },
+      "tags": [
+        "birds::waterbird"
+      ]
+    },
+    {
+      "key": "white-ibis",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "White ibis",
+        "extra": "Eudocimus albus. All-white wader with a long down-curved red-orange bill and red legs; black wingtips show in flight. Probes lawns and ditches in flocks. Wood stork is far larger with a bare gray head.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/American_White_IbisII.jpg?width=640"
+      },
+      "tags": [
+        "birds::wader"
+      ]
+    },
+    {
+      "key": "wood-stork",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Wood stork",
+        "extra": "Mycteria americana. The only stork that breeds in the US: big white body, bare scaly gray head, thick down-curved bill, and black flight feathers. Feeds by touch, snapping its bill shut on fish in murky water.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/WoodStorkWhole.JPG?width=640"
+      },
+      "tags": [
+        "birds::wader"
+      ]
+    },
+    {
+      "key": "great-egret",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Great egret",
+        "extra": "Ardea alba. Tall all-white heron with a yellow bill and black legs and feet. Snowy egret is smaller, with a black bill and yellow feet (\"golden slippers\").",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Egret_(Ardea_alba)_in_Breeding_Plumage,_Cape_May_County,_New_Jersey,_USA_(cropped).png?width=640"
+      },
+      "tags": [
+        "birds::wader"
+      ]
+    },
+    {
+      "key": "snowy-egret",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Snowy egret",
+        "extra": "Egretta thula. Small white heron with a slim black bill, black legs, and bright yellow feet that it shuffles to flush prey. Its wispy breeding plumes nearly drove it extinct during the plume-hat trade.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Snowy_Egret_(Egretta_thula)_Edwin_B_Forsythe_NWR,_Galloway,_NJ,_USA.jpg?width=640"
+      },
+      "tags": [
+        "birds::wader"
+      ]
+    },
+    {
+      "key": "little-blue-heron",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Little blue heron",
+        "extra": "Egretta caerulea. Adult is slate-blue with a maroon-tinged neck and a two-toned bill (gray-blue base, dark tip). First-year birds are all white, like a snowy egret; check for greenish legs and the two-toned bill.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Little_Blue_Fly-By.png?width=640"
+      },
+      "tags": [
+        "birds::wader"
+      ]
+    },
+    {
+      "key": "tricolored-heron",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Tricolored heron",
+        "extra": "Egretta tricolor. Slim slate-blue heron with a clean white belly and a white stripe up the front of the neck. The white belly separates it from the all-dark little blue heron.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Tri-colored_heron_sunrise_bunche_beach_(33516451355)_(cropped).jpg?width=640"
+      },
+      "tags": [
+        "birds::wader"
+      ]
+    },
+    {
+      "key": "cattle-egret",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Cattle egret",
+        "extra": "Ardea ibis (formerly Bubulcus ibis). Stocky, short-necked white heron that follows cattle and tractors for flushed insects. Buffy-orange plumes on the head, back, and chest when breeding. Crossed from Africa on its own and reached Florida in the 1940s.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg?width=640"
+      },
+      "tags": [
+        "birds::wader"
+      ]
+    },
+    {
+      "key": "yellow-crowned-night-heron",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Yellow-crowned night heron",
+        "extra": "Nyctanassa violacea. Stocky gray heron with a bold black-and-white face and a pale yellowish crown. Specializes in crabs and crayfish. Black-crowned night heron has a black back and cap.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Yellow-crowned_Night_Heron_(Nyctanassa_violacea)_perched_on_a_cedar_-_Cape_May_County,_New_Jersey,_USA.png?width=640"
+      },
+      "tags": [
+        "birds::wader"
+      ]
+    },
+    {
+      "key": "purple-gallinule",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Purple gallinule",
+        "extra": "Porphyrio martinica. Iridescent purple-blue and green marsh bird with a red-and-yellow bill, pale blue forehead shield, and long yellow legs. Walks across lily pads on huge toes. Common gallinule is dark with a red shield.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Gallinule_Purple_JG.jpg?width=640"
+      },
+      "tags": [
+        "birds::marsh"
+      ]
+    },
+    {
+      "key": "limpkin",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Limpkin",
+        "extra": "Aramus guarauna. Brown, white-speckled wader with a long, slightly drooping bill built for extracting apple snails. Its wailing night scream is a Florida swamp classic; spreading north as invasive apple snails spread.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Limpkin,_Florida_05.jpg?width=640"
+      },
+      "tags": [
+        "birds::marsh"
+      ]
+    },
+    {
+      "key": "sandhill-crane",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Sandhill crane",
+        "extra": "Antigone canadensis. Tall gray crane with a red forehead patch, often stained rusty from iron-rich mud. Florida has a year-round resident population. Flies with its neck straight out, unlike herons.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandhill_Crane_JG.jpg?width=640"
+      },
+      "tags": [
+        "birds::marsh"
+      ]
+    },
+    {
+      "key": "black-bellied-whistling-duck",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Black-bellied whistling duck",
+        "extra": "Dendrocygna autumnalis. Long-legged, goose-like duck with a bright pink-red bill, gray face, and black belly; a big white wing stripe shows in flight. Perches in trees and gives squealing whistles.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Whistling_duck_flight02_-_natures_pics-edit1.jpg?width=640"
+      },
+      "tags": [
+        "birds::waterbird"
+      ]
+    },
+    {
+      "key": "mottled-duck",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Mottled duck",
+        "extra": "Anas fulvigula. Gulf Coast resident cousin of the mallard. Both sexes look like a dark female mallard but with a plain buff face and throat and little or no white bordering the blue-green wing patch.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/MottledDuck_Gam.jpg?width=640"
+      },
+      "tags": [
+        "birds::waterbird"
+      ]
+    },
+    {
+      "key": "osprey",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Osprey",
+        "extra": "Pandion haliaetus. The fish hawk: white below, dark brown above, with a dark eye stripe; wings crooked into an M in flight. Plunges feet-first for fish and nests on channel markers and poles.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Osprey_Perched_Snag_Heislerville.jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "swallow-tailed-kite",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Swallow-tailed kite",
+        "extra": "Elanoides forficatus. Elegant black-and-white raptor with a deeply forked tail, gliding low over Southeastern swamps and pinelands. Snatches insects and lizards and eats them on the wing. Winters in South America.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Swallow-tailed_Kite_(34163638494).jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "mississippi-kite",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Mississippi kite",
+        "extra": "Ictinia mississippiensis. Sleek gray, falcon-shaped raptor with a pale head and red eyes that catches dragonflies and cicadas in midair. Nests in towns and on golf courses across the southern Plains and Southeast.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Mississippi_Kite.jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "red-shouldered-hawk",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Red-shouldered hawk",
+        "extra": "Buteo lineatus. Woodland hawk with rufous-barred underparts, checkered black-and-white wings, and a boldly banded black-and-white tail. Loud, repeated \"kee-ah\" call, often imitated by blue jays.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-shouldered_Hawk_(Buteo_lineatus)_-_Blue_Cypress_Lake,_Florida.jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "black-vulture",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Black vulture",
+        "extra": "Coragyps atratus. All-black vulture with a bare, wrinkled gray head and white patches at the wingtips; flaps quickly between short glides. Turkey vulture has a red head and soars with its wings held in a V.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_vulture_(Coragyps_atratus_brasiliensis)_Peten.jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "crested-caracara",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Crested caracara",
+        "extra": "Caracara plancus. Long-legged falcon that behaves like a vulture: black cap, white neck, and bare orange-red face. Struts on the ground scavenging roadkill in Florida's prairies and South Texas. Florida's population is federally threatened.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Schopfkarakara.jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "barred-owl",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Barred owl",
+        "extra": "Strix varia. Round-headed brown-and-white owl with dark eyes, no ear tufts, a barred chest, and a streaked belly. Its \"Who cooks for you, who cooks for you-all?\" hoot rings through southern swamps, often in daytime.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Strix-varia-005.jpg?width=640"
+      },
+      "tags": [
+        "birds::raptor"
+      ]
+    },
+    {
+      "key": "brown-headed-nuthatch",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Brown-headed nuthatch",
+        "extra": "Sitta pusilla. Tiny pine-forest nuthatch with a brown cap and a call like a squeaky rubber duck. One of the few tool-using birds: it pries up bark with a flake of bark held in its bill.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/BrownHeadedNuthatch.jpg?width=640"
+      },
+      "tags": [
+        "birds::pinewoods"
+      ]
+    },
+    {
+      "key": "red-cockaded-woodpecker",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Red-cockaded woodpecker",
+        "extra": "Dryobates borealis. Ladder-backed woodpecker with a big white cheek patch; the male's red \"cockade\" is a nearly invisible fleck. The only North American woodpecker that excavates nest holes in living pines. Endangered.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Picoides_borealis_USMC2005729133853B.jpg?width=640"
+      },
+      "tags": [
+        "birds::pinewoods"
+      ]
+    },
+    {
+      "key": "carolina-chickadee",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Carolina chickadee",
+        "extra": "Poecile carolinensis. The South's chickadee, nearly identical to the black-capped. Separate by range and voice: Carolina sings a four-note \"fee-bee fee-bay\" and lacks the black-capped's bright white wing edging.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Carolina_Chickadee1_by_Dan_Pancamo.jpg?width=640"
+      },
+      "tags": [
+        "birds::feeder"
+      ]
+    },
+    {
+      "key": "florida-scrub-jay",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Florida scrub-jay",
+        "extra": "Aphelocoma coerulescens. Crestless blue-and-gray jay found only in Florida's oak scrub: the state's only endemic bird. Lives in family groups where grown offspring help raise their siblings. Federally threatened.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Adult_Florida_scrub_jay.jpg?width=640"
+      },
+      "tags": [
+        "birds::corvid"
+      ]
+    },
+    {
+      "key": "fish-crow",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Fish crow",
+        "extra": "Corvus ossifragus. Slightly smaller twin of the American crow, best told by voice: a nasal \"uh-uh\" instead of a \"caw\". Common along coasts, rivers, and in towns across the Southeast.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Fish_crow_in_Red_Hook_(42712).jpg?width=640"
+      },
+      "tags": [
+        "birds::corvid"
+      ]
+    },
+    {
+      "key": "boat-tailed-grackle",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Boat-tailed grackle",
+        "extra": "Quiscalus major. Big iridescent black grackle of coastal marshes with a long, keel-shaped tail; female is tawny brown. Very similar to the great-tailed grackle, which replaces it inland and across most of Texas.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Boat_Tailed_Grackle_Male_JG.jpg?width=640"
+      },
+      "tags": [
+        "birds::blackbird"
+      ]
+    },
+    {
+      "key": "prothonotary-warbler",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Prothonotary warbler",
+        "extra": "Protonotaria citrea. Glowing golden-yellow warbler with blue-gray wings and no wing bars, nesting in tree cavities over swamp water. Named for the yellow robes of papal clerks called prothonotaries.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Protonotaria-citrea-002_edit.jpg?width=640"
+      },
+      "tags": [
+        "birds::warbler"
+      ]
+    },
+    {
+      "key": "pine-warbler",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Pine warbler",
+        "extra": "Setophaga pinus. Plain yellow-olive warbler with white wing bars and faint breast streaks, found high in southern pines year-round. Unusual among warblers for eating seeds and visiting suet feeders.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pine_warbler_(90070).jpg?width=640"
+      },
+      "tags": [
+        "birds::warbler"
+      ]
+    },
+    {
+      "key": "yellow-throated-warbler",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Yellow-throated warbler",
+        "extra": "Setophaga dominica. Gray-backed warbler with a lemon-yellow throat, black face triangle, white eyebrow and neck patch, and black side streaks. Forages through Spanish moss and pine canopies.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Setophaga_dominica,_Tisbury,_Martha's_Vineyard,_Massachusetts_496646966.jpg?width=640"
+      },
+      "tags": [
+        "birds::warbler"
+      ]
+    },
+    {
+      "key": "hooded-warbler",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Hooded warbler",
+        "extra": "Setophaga citrina. Male has a bright yellow face framed by a full black hood; females show only a faint hood outline. Constantly flashes white tail spots in the shady understory.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Hooded_Warbler.jpg?width=640"
+      },
+      "tags": [
+        "birds::warbler"
+      ]
+    },
+    {
+      "key": "summer-tanager",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Summer tanager",
+        "extra": "Piranga rubra. Male is rose-red all over, with no black wings (scarlet tanager) and no crest (cardinal); female is mustard-yellow. A bee and wasp specialist that beats off the stingers on a branch.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Summer_tanager_(Piranga_rubra)_male_Copan_3.jpg?width=640"
+      },
+      "tags": [
+        "birds::songbird"
+      ]
+    },
+    {
+      "key": "blue-grosbeak",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Blue grosbeak",
+        "extra": "Passerina caerulea. Deep blue finch with a massive silvery bill and two chestnut wing bars. Indigo bunting is smaller, with a small bill and no chestnut wing bars.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Grosbeak_by_Dan_Pancamo.jpg?width=640"
+      },
+      "tags": [
+        "birds::songbird"
+      ]
+    },
+    {
+      "key": "orchard-oriole",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Orchard oriole",
+        "extra": "Icterus spurius. North America's smallest oriole. Adult male is black with deep chestnut, not orange, underparts. Females are yellow-green; first-year males add a black bib.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Orchard_Oriole_by_Dan_Pancamo_1.jpg?width=640"
+      },
+      "tags": [
+        "birds::songbird"
+      ]
+    },
+    {
+      "key": "scissor-tailed-flycatcher",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Scissor-tailed flycatcher",
+        "extra": "Tyrannus forficatus. Pale gray flycatcher with salmon-pink flanks and an outrageously long forked tail. Perches on fences and wires across Texas and the southern Plains. Oklahoma's state bird.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyrannus_forficatus_on_branch.jpg?width=640"
+      },
+      "tags": [
+        "birds::flycatcher"
+      ]
+    },
+    {
+      "key": "great-crested-flycatcher",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Great crested flycatcher",
+        "extra": "Myiarchus crinitus. Brown-crested flycatcher with a gray throat, lemon-yellow belly, and rufous tail. Loud rising \"wheep!\" from the treetops; often lines its cavity nest with a shed snakeskin.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/GreatCrestedFlycatcher.jpg?width=640"
+      },
+      "tags": [
+        "birds::flycatcher"
+      ]
+    },
+    {
+      "key": "loggerhead-shrike",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Loggerhead shrike",
+        "extra": "Lanius ludovicianus. The \"butcherbird\": gray songbird with a black mask and hooked bill that impales insects, lizards, and mice on thorns and barbed wire. Northern mockingbird is similar but has no mask and a slim bill.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Shrike_Loggerhead_JG.jpg?width=640"
+      },
+      "tags": [
+        "birds::songbird"
+      ]
+    },
+    {
+      "key": "eastern-meadowlark",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Eastern meadowlark",
+        "extra": "Sturnella magna. Bright yellow breast with a black V, streaky brown back, and white outer tail feathers. Sings a clear, slurred whistle from fence posts in pastures and hayfields.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastern_meadowlark_(Sturnella_magna_mexicana)_Orange_Walk.jpg?width=640"
+      },
+      "tags": [
+        "birds::grassland"
+      ]
+    },
+    {
+      "key": "northern-bobwhite",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Northern bobwhite",
+        "extra": "Colinus virginianus. Small, round quail; the male has a bold white throat and eyebrow (buff in females). Named for its whistled \"bob-WHITE!\" Its decline tracks the loss of fire-maintained pine savannas.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Colinus_virginianus_Chincoteague.jpg?width=640"
+      },
+      "tags": [
+        "birds::gamebird"
+      ]
+    },
+    {
+      "key": "common-ground-dove",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Common ground dove",
+        "extra": "Columbina passerina. Sparrow-sized dove with a scaly head and breast and rufous wing patches that flash in flight. Inca dove is scaled all over and has a long tail.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/CommonGroundDoveJG.jpg?width=640"
+      },
+      "tags": [
+        "birds::dove"
+      ]
+    },
+    {
+      "key": "eurasian-collared-dove",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Eurasian collared dove",
+        "extra": "Streptopelia decaocto. Pale sandy-gray dove with a black half-collar on the nape and a square-tipped tail. Introduced to the Bahamas in the 1970s, it reached Florida in the 1980s and then spread across the continent.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/2022-04-06_Streptopelia_decaocto,_Plovdiv,_Bulgaria_1.jpg?width=640"
+      },
+      "tags": [
+        "birds::dove"
+      ]
+    },
+    {
+      "key": "white-winged-dove",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "White-winged dove",
+        "extra": "Zenaida asiatica. Brown dove with a bright white wing stripe and blue skin around red-orange eyes; coos \"who cooks for you\". Once mainly a bird of South Texas and the desert Southwest, it has spread across the Gulf states.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Zenaida_asiatica_-Tuscon_-Arizona_-USA_-8a.jpg?width=640"
+      },
+      "tags": [
+        "birds::dove"
+      ]
+    },
+    {
+      "key": "chuck-wills-widow",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Chuck-will's-widow",
+        "extra": "Antrostomus carolinensis. Large nightjar of southern pine and oak woods, camouflaged in mottled browns. Heard far more than seen, calling its own name all night in spring. Bigger and buffier than the eastern whip-poor-will.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Chuck-wills-widow_RWD7.jpg?width=640"
+      },
+      "tags": [
+        "birds::nightbird"
+      ]
+    },
+    {
+      "key": "purple-martin",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Purple martin",
+        "extra": "Progne subis. North America's largest swallow; the male is glossy blue-black all over. In the East it nests almost entirely in gourds and martin houses, a tradition inherited from Native Americans.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/PurpleMartin_cajay.jpg?width=640"
+      },
+      "tags": [
+        "birds::aerial"
+      ]
+    },
+    {
+      "key": "green-jay",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Green jay",
+        "extra": "Cyanocorax luxuosus. Unmistakable tropical jay: green back, yellow underparts and outer tail, blue-and-black head. In the US it lives only in the Lower Rio Grande Valley of South Texas.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_jay_(Cyanocorax_luxuosus)_in_Mission,_Texas,_USA.png?width=640"
+      },
+      "tags": [
+        "birds::texas"
+      ]
+    },
+    {
+      "key": "great-kiskadee",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Great kiskadee",
+        "extra": "Pitangus sulphuratus. Big-headed flycatcher with a bold black-and-white striped head, rufous wings, and lemon-yellow belly; shouts \"kis-ka-DEE\". Mainly South Texas in the US. Even dives for fish like a kingfisher.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_kiskadee_(70240).jpg?width=640"
+      },
+      "tags": [
+        "birds::texas"
+      ]
+    },
+    {
+      "key": "plain-chachalaca",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Plain chachalaca",
+        "extra": "Ortalis vetula. Long-tailed, olive-brown tropical gamebird of South Texas thickets. Flocks erupt in deafening dawn choruses of \"cha-cha-LAC-a\".",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Plain_Chachalaca_Roadside.png?width=640"
+      },
+      "tags": [
+        "birds::texas"
+      ]
+    },
+    {
+      "key": "golden-fronted-woodpecker",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Golden-fronted woodpecker",
+        "extra": "Melanerpes aurifrons. The Texas cousin of the red-bellied woodpecker: zebra-barred back, yellow nasal tufts, orange nape, and (in males) a small red crown patch. Red-bellied has a red nape.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Melanerpes_aurifrons2.jpg?width=640"
+      },
+      "tags": [
+        "birds::woodpecker"
+      ]
+    },
+    {
+      "key": "laughing-gull",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Laughing gull",
+        "extra": "Leucophaeus atricilla. The common summer beach gull of the Gulf and Atlantic: black hood, dark gray back, and dark red bill, named for its \"ha-ha-ha\" call. Winter adults lose the hood.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Leucophaeus_atricilla_Caye_Caulker_04.JPG?width=640"
+      },
+      "tags": [
+        "birds::shorebird"
+      ]
+    },
+    {
+      "key": "royal-tern",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Royal tern",
+        "extra": "Thalasseus maximus. Large tern with a bright orange carrot of a bill and a shaggy black crest. Caspian tern is bulkier, with a blood-red bill tipped in black.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal_Tern.jpg?width=640"
+      },
+      "tags": [
+        "birds::shorebird"
+      ]
+    },
+    {
+      "key": "black-skimmer",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "Black skimmer",
+        "extra": "Rynchops niger. Black-and-white tern relative with a red-and-black bill whose lower half is longer than the upper. Flies low, slicing the water with its lower bill to snap up fish by touch.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_skimmer_Rynchops_niger.jpg?width=640"
+      },
+      "tags": [
+        "birds::shorebird"
+      ]
+    },
+    {
+      "key": "american-oystercatcher",
+      "model": "basic",
+      "fields": {
+        "front": "What bird is this?",
+        "back": "American oystercatcher",
+        "extra": "Haematopus palliatus. Bulky black-and-white shorebird with a long, chisel-like bright orange-red bill for prying open oysters and clams; yellow eye with a red eye-ring.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/American_oystercatcher_on_Fort_Tilden_beach_(93754).jpg?width=640"
+      },
+      "tags": [
+        "birds::shorebird"
+      ]
+    }
+  ]
+}

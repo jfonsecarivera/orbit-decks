@@ -41,6 +41,18 @@
       "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Erithacus_rubecula_with_cocked_head.jpg?width=640"
     },
     {
+      "key": "birds-southern-us",
+      "name": "Bird ID: Southern United States",
+      "description": "Identify 55 birds that define the American South from photos: Gulf Coast wading birds, swamp warblers, pinewoods specialists, and South Texas tropicals. Pairs with the Eastern deck, with no repeats. Details give the scientific name, key field marks, and lookalike tips.",
+      "cardCount": 55,
+      "topics": [
+        "birds",
+        "nature",
+        "identification"
+      ],
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Male_Painted_Bunting_Singing.jpg?width=640"
+    },
+    {
       "key": "birds-western-north-america",
       "name": "Bird ID: Western North America",
       "description": "Identify 55 signature birds of the American West from photos, from coastal chaparral to desert and mountain pine forest. Details give the scientific name, key field marks, and lookalike tips.",
@@ -63,6 +75,32 @@
         "identification"
       ],
       "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Retriever_Dukedestiny01_drvd.jpg?width=640"
+    },
+    {
+      "key": "snakes-southern-us",
+      "name": "Snake ID: Southern United States",
+      "description": "Identify 39 snakes of the American South from photos, from copperheads, cottonmouths, and rattlesnakes to the harmless water snakes, rat snakes, and coral snake mimics that get mistaken for them. Every card says venomous or harmless up front, then gives field marks and how to split the lookalikes.",
+      "cardCount": 39,
+      "topics": [
+        "snakes",
+        "reptiles",
+        "nature",
+        "identification"
+      ],
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Agkistrodon_contortrix_contortrix_CDC-a.png?width=640"
+    },
+    {
+      "key": "trees-plants-southern-us",
+      "name": "Tree and Plant ID: Southern United States",
+      "description": "Identify 52 trees, vines, and wildflowers of the American South from photos: live oak and Spanish moss, magnolia and bald cypress, longleaf pine, kudzu, and the carnivorous plants of Carolina bogs. Details give the scientific name, field marks, state-symbol trivia, and which ones are invasive.",
+      "cardCount": 52,
+      "topics": [
+        "trees",
+        "plants",
+        "nature",
+        "identification"
+      ],
+      "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/FL_Volusia_Oak03.jpg?width=640"
     }
   ]
 }

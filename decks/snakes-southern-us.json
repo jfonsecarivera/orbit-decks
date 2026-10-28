@@ -1,0 +1,526 @@
+{
+  "key": "snakes-southern-us",
+  "version": 1,
+  "name": "Snake ID: Southern United States",
+  "description": "Identify 39 snakes of the American South from photos, from copperheads, cottonmouths, and rattlesnakes to the harmless water snakes, rat snakes, and coral snake mimics that get mistaken for them. Every card says venomous or harmless up front, then gives field marks and how to split the lookalikes.",
+  "category": "Nature",
+  "topics": [
+    "snakes",
+    "reptiles",
+    "nature",
+    "identification"
+  ],
+  "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Agkistrodon_contortrix_contortrix_CDC-a.png?width=640",
+  "ttsLang": null,
+  "notes": [
+    {
+      "key": "copperhead",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Copperhead",
+        "extra": "Agkistrodon contortrix. VENOMOUS pit viper. Coppery tan with dark hourglass crossbands, narrow on the back and wide on the sides; plain copper head. Young have a sulfur-yellow tail tip. Bites are common, deaths very rare.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Agkistrodon_contortrix_contortrix_CDC-a.png?width=640"
+      },
+      "tags": [
+        "snakes::venomous"
+      ]
+    },
+    {
+      "key": "corn-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Corn snake",
+        "extra": "Pantherophis guttatus. Harmless constrictor. Orange to reddish-brown with black-edged red saddles and a black-and-white checkered belly like Indian corn. Often mistaken for a copperhead, which has hourglass bands.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/CornSnake.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "cottonmouth",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Cottonmouth",
+        "extra": "Agkistrodon piscivorus. VENOMOUS pit viper of swamps and streams, also called water moccasin. Heavy, dark olive to black (young are banded), with a dark stripe through the eye; gapes to show its white mouth. Swims floating high on the surface.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Agkistrodon_piscivorus_piscivorus_CDC.png?width=640"
+      },
+      "tags": [
+        "snakes::venomous"
+      ]
+    },
+    {
+      "key": "banded-water-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Banded water snake",
+        "extra": "Nerodia fasciata. Harmless. Dark crossbands on a gray, tan, or reddish body. The snake most often killed as a \"cottonmouth\": it swims with only its head above water and has round pupils, not a viper's cat-eye slits.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Banded_water_snake.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "eastern-diamondback-rattlesnake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Eastern diamondback rattlesnake",
+        "extra": "Crotalus adamanteus. VENOMOUS; the heaviest venomous snake in the Americas. Dark diamonds outlined in cream on a brown body, with two pale diagonal stripes on the face. Longleaf pine and coastal scrub from North Carolina to Louisiana.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Adult_Crotalus_adamanteus.jpg?width=640"
+      },
+      "tags": [
+        "snakes::venomous"
+      ]
+    },
+    {
+      "key": "timber-rattlesnake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Timber rattlesnake",
+        "extra": "Crotalus horridus. VENOMOUS. Gray to tan with black chevron (V-shaped) crossbands and a solid black tail. The southern lowland form, called the canebrake rattlesnake, is often pinkish with a rusty stripe down the spine.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Timber_Rattlesnake_(Crotalus_horridus)_-_Flickr_-_2ndPeter.jpg?width=640"
+      },
+      "tags": [
+        "snakes::venomous"
+      ]
+    },
+    {
+      "key": "western-diamondback-rattlesnake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Western diamondback rattlesnake",
+        "extra": "Crotalus atrox. VENOMOUS. Dusty gray-brown diamonds and a \"coon tail\" of bold black-and-white rings just before the rattle. The rattlesnake of Texas and Oklahoma rangeland; its range does not overlap the eastern diamondback's.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/(Westliche_Diamantklapperschlange)_Crotalus_atrox.jpg?width=640"
+      },
+      "tags": [
+        "snakes::venomous"
+      ]
+    },
+    {
+      "key": "pygmy-rattlesnake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Pygmy rattlesnake",
+        "extra": "Sistrurus miliarius. VENOMOUS but small, usually under 2 feet, with a tiny rattle that buzzes like an insect. Gray with dark blotches and often a rusty-orange stripe down the back. Common in Florida yards and pine flatwoods.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sistrurus_miliaris_miliaris_CDC.png?width=640"
+      },
+      "tags": [
+        "snakes::venomous"
+      ]
+    },
+    {
+      "key": "eastern-coral-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Eastern coral snake",
+        "extra": "Micrurus fulvius. VENOMOUS, with potent nerve-attacking venom. Rings of red, yellow, and black, with red touching yellow, and a black snout. \"Red touches yellow, kills a fellow\" works only for US coral snakes.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Coral_009.jpg?width=640"
+      },
+      "tags": [
+        "snakes::venomous"
+      ]
+    },
+    {
+      "key": "scarlet-kingsnake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Scarlet kingsnake",
+        "extra": "Lampropeltis elapsoides. Harmless coral snake mimic: rings of red, black, and yellow, but red touches black and the snout is red. Small (under 2 feet) and secretive, hiding under pine bark and logs.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Scarlet_kingsnake_(Lampropeltis_elapsoides).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "scarlet-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Scarlet snake",
+        "extra": "Cemophora coccinea. Harmless. Black-bordered red blotches on a white to yellow ground, with a pointed red snout for burrowing. Vs scarlet kingsnake: the blotches stop at the sides, leaving the belly plain white. Eats reptile eggs.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Scarlet_snake_(Cemophora_coccinea)_Madden_Haag.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "texas-coral-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Texas coral snake",
+        "extra": "Micrurus tener. VENOMOUS coral snake of Texas, Louisiana, and Arkansas. Same red-touches-yellow ring pattern as the eastern coral snake, with red rings often peppered with black flecks.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Micrurus_tener.jpg?width=640"
+      },
+      "tags": [
+        "snakes::venomous"
+      ]
+    },
+    {
+      "key": "black-rat-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Black rat snake",
+        "extra": "Pantherophis (black adults of all three eastern rat snake species). Harmless constrictor and expert climber: shiny black with a white chin and a body shaped like a loaf of bread in cross-section. Vs black racer: the racer is slimmer, satiny, and bolts away.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Rat_Snake_-_Pantherophis_obsoletus,_Lorton_Workhouse,_Lorton,_Virginia_(42897485540).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "southern-black-racer",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Southern black racer",
+        "extra": "Coluber constrictor priapus. Harmless. Slender, satiny black with a white chin and throat. Fast and alert; bites readily if grabbed and rattles its tail in dry leaves. Despite its scientific name, it does not constrict.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Coluber_constrictor_ssp._priapus_(Southern_Black_Racer).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "gray-rat-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Gray rat snake",
+        "extra": "Pantherophis alleghaniensis (formerly P. spiloides). Harmless. Gray with darker gray blotches; the common rat snake from the Florida Panhandle and western Georgia through the Mississippi valley. Climbs into trees, barns, and attics.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray_Ratsnake_(Pantherophis_spiloides)_(43567652625)_(cropped).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "yellow-rat-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Yellow rat snake",
+        "extra": "Pantherophis quadrivittatus. Harmless constrictor of Florida and the coastal Carolinas and Georgia: yellow to orange-tan with four dark stripes running the length of the body. Raids bird nests and henhouses; freezes in a kinked pose when threatened.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Yellow_Rat_Snake_(Elaphe_obsoleta_quadrivittata)_(24209659368).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "texas-rat-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Texas rat snake",
+        "extra": "Pantherophis obsoletus. Harmless but famously feisty. Yellowish-tan to gray with dark brown blotches and often a dark head: the Texas color form of the western rat snake, found in Texas and western Louisiana.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Texas_Rat_Snake_(7284906714).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "eastern-indigo-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Eastern indigo snake",
+        "extra": "Drymarchon couperi. Harmless; the longest native snake in the US, reaching about 8 feet. Glossy blue-black with a reddish-orange chin and cheeks. Eats other snakes, including rattlesnakes. Federally threatened.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Indigo_Snake.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "coachwhip",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Coachwhip",
+        "extra": "Masticophis flagellum. Harmless. Very long and slender; in the Southeast dark brown to black at the head, fading to tan toward the tail, with a braided-whip scale pattern. One of North America's fastest snakes, hunting by sight.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastern_coachwhip_(Masticophis_flagellum_flagellum)_Madden_Haag.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "eastern-kingsnake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Eastern kingsnake",
+        "extra": "Lampropeltis getula. Harmless constrictor. Shiny black with narrow white or yellow chain-link crossbands. Largely immune to pit viper venom; eats copperheads and rattlesnakes.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastern_kingsnake_(Lampropeltis_getula).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "speckled-kingsnake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Speckled kingsnake",
+        "extra": "Lampropeltis holbrooki. Harmless. Black with a yellow or white dot in nearly every scale: the \"salt-and-pepper snake\" of the Mississippi valley and Gulf states west to Texas.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Speckled_kingsnake_(Lampropeltis_holbrooki).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "eastern-hognose-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Eastern hognose snake",
+        "extra": "Heterodon platirhinos. Harmless to people. Upturned snout for digging out toads; color varies from blotched yellow or orange to solid black. Famous bluffer: flattens its neck like a cobra and hisses, then rolls over and plays dead.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Hognose_Snake.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "southern-hognose-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Southern hognose snake",
+        "extra": "Heterodon simus. Harmless. Small, stout, and sandy-colored with dark blotches and a sharply upturned snout. Same cobra bluff and death-feigning act as the eastern hognose. Rare, in sandhills of the Carolinas, Georgia, and Florida.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Adult_Heterodon_simus.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "mud-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Mud snake",
+        "extra": "Farancia abacura. Harmless swamp snake, glossy black above with red-and-black checkered bars rising up its sides from a red belly. Its harmless spine-tipped tail inspired the \"stinging snake\" and hoop snake legends. Eats mainly amphiumas and sirens.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Western_Mud_Snake.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "rainbow-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Rainbow snake",
+        "extra": "Farancia erytrogramma. Harmless, iridescent blue-black with three red stripes and a red-and-yellow belly. A burrowing eel specialist of blackwater streams, rarely seen.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_Rainbow_Snake_(Farancia_erytrogramma).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "brown-water-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Brown water snake",
+        "extra": "Nerodia taxispilota. Harmless. Brown with three rows of squarish dark blotches, one down the back and one on each side. Basks on branches over rivers and drops in when approached; heavy-bodied and often mistaken for a cottonmouth.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Brown_Water_Snake.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "diamondback-water-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Diamondback water snake",
+        "extra": "Nerodia rhombifer. Harmless. Brown with a dark chain-like net pattern that outlines pale diamonds on the back. Common in the Mississippi valley and Texas; bites hard but is not venomous.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Diamond-backed_Watersnake_(Nerodia_rhombifer).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "plain-bellied-water-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Plain-bellied water snake",
+        "extra": "Nerodia erythrogaster. Harmless. Plain brown, gray, or olive above with an unmarked yellow, orange, or reddish belly; young are blotched. Often wanders far from water.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Plain-bellied_Watersnake_(Nerodia_erythrogaster).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "common-garter-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Common garter snake",
+        "extra": "Thamnophis sirtalis. Harmless. Three yellowish stripes, one down the back and one on each side, often with a checkered pattern between. Musks when handled. Ribbon snake is far slimmer, with a tail about a third of its length.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Thamnophis_sirtalis_sirtalis_Wooster.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "eastern-ribbon-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Eastern ribbon snake",
+        "extra": "Thamnophis saurita. Harmless, very slender relative of the garter snake with three bright yellow stripes on a dark body and a tail about a third of its length. Hunts frogs at pond edges.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/EasternRibbonSnake.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "rough-green-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Rough green snake",
+        "extra": "Opheodrys aestivus. Harmless, slender, bright green above and yellow-white below. Lives in shrubs and vines over water and eats insects and spiders. Turns blue-gray after death as its yellow pigment fades.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Rough_green_snake_(Opheodrys_aestivus)_Madden_Haag.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "ring-necked-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Ring-necked snake",
+        "extra": "Diadophis punctatus. Harmless. Small, slate-gray to black with a yellow-orange neck ring and a bright yellow, orange, or red belly. Curls its tail to flash the red underside when threatened.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Ring-necked_Snake_(Diadophis_punctatus).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "dekays-brown-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "DeKay's brown snake",
+        "extra": "Storeria dekayi. Harmless and small, usually under 15 inches long: brown with two rows of dark dots down the back. Common under boards and leaf litter in yards; eats slugs and earthworms.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Dekay's_Brownsnake_(Storeria_dekayi).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "red-bellied-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Red-bellied snake",
+        "extra": "Storeria occipitomaculata. Harmless, tiny woodland snake, brown or gray above with a bright red belly and pale spots on the nape. Ring-necked snake has a full neck ring and a glossier body.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Redbelly_snake_(Storeria_occipitomaculata).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "pine-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Pine snake",
+        "extra": "Pituophis melanoleucus. Harmless but an impressive bluffer. Large and powerful, with dark blotches on a white, tan, or rusty ground and a pointed snout for digging. Hisses loudly through a special flap at the entrance to its windpipe.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Pinesnake_(Pituophis_melanoleucus).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "rough-earth-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Rough earth snake",
+        "extra": "Virginia striatula. Harmless, small plain brown snake with a pointed head, often turned up in gardens and flowerbeds across the South. Feeds mostly on earthworms.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Rough_earth_snake_(Virginia_striatula).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "eastern-worm-snake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Eastern worm snake",
+        "extra": "Carphophis amoenus. Harmless, earthworm-sized and glossy brown with a pink belly and a tiny head. Pokes with a sharp tail tip when picked up. Lives under logs and in loose soil.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Carphophis_amoenus_amoenus.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless"
+      ]
+    },
+    {
+      "key": "burmese-python",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Burmese python",
+        "extra": "Python bivittatus. Invasive constrictor in the Florida Everglades, where it has crashed raccoon, opossum, and rabbit numbers. Tan with large black-edged brown blotches; can exceed 18 feet. Not venomous.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Brooding_female_Python_molurus_bivittatus.jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless",
+        "snakes::invasive"
+      ]
+    },
+    {
+      "key": "brahminy-blindsnake",
+      "model": "basic",
+      "fields": {
+        "front": "What snake is this?",
+        "back": "Brahminy blindsnake",
+        "extra": "Indotyphlops braminus. Harmless, earthworm-sized, shiny dark brown snake with tiny eyes under its scales. The \"flowerpot snake\" spread worldwide in potting soil. All individuals are female and reproduce without males.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Brahminy_blind_snake_(Indotyphlops_braminus).jpg?width=640"
+      },
+      "tags": [
+        "snakes::harmless",
+        "snakes::invasive"
+      ]
+    }
+  ]
+}

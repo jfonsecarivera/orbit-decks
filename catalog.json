@@ -32,8 +32,8 @@
     {
       "key": "nature",
       "name": "Nature",
-      "deckCount": 5,
-      "rev": "2943dba92662",
+      "deckCount": 8,
+      "rev": "1da08a846572",
       "file": "categories/nature.json"
     },
     {
@@ -150,6 +150,7 @@
       "deckKeys": [
         "birds-eastern-north-america",
         "birds-western-north-america",
+        "birds-southern-us",
         "birds-of-europe"
       ]
     },
@@ -240,6 +241,11 @@
       "key": "birds-of-europe",
       "version": 1,
       "file": "decks/birds-of-europe.json"
+    },
+    {
+      "key": "birds-southern-us",
+      "version": 1,
+      "file": "decks/birds-southern-us.json"
     },
     {
       "key": "birds-western-north-america",
@@ -492,6 +498,11 @@
       "file": "decks/slav-defense.json"
     },
     {
+      "key": "snakes-southern-us",
+      "version": 1,
+      "file": "decks/snakes-southern-us.json"
+    },
+    {
       "key": "tarrasch-defense",
       "version": 4,
       "file": "decks/tarrasch-defense.json"
@@ -510,6 +521,11 @@
       "key": "transformer-architecture",
       "version": 1,
       "file": "decks/transformer-architecture.json"
+    },
+    {
+      "key": "trees-plants-southern-us",
+      "version": 1,
+      "file": "decks/trees-plants-southern-us.json"
     },
     {
       "key": "unix-terminal-essentials",

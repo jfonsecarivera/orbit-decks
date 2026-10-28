@@ -1,0 +1,702 @@
+{
+  "key": "trees-plants-southern-us",
+  "version": 1,
+  "name": "Tree and Plant ID: Southern United States",
+  "description": "Identify 52 trees, vines, and wildflowers of the American South from photos: live oak and Spanish moss, magnolia and bald cypress, longleaf pine, kudzu, and the carnivorous plants of Carolina bogs. Details give the scientific name, field marks, state-symbol trivia, and which ones are invasive.",
+  "category": "Nature",
+  "topics": [
+    "trees",
+    "plants",
+    "nature",
+    "identification"
+  ],
+  "coverImage": "https://commons.wikimedia.org/wiki/Special:FilePath/FL_Volusia_Oak03.jpg?width=640",
+  "ttsLang": null,
+  "notes": [
+    {
+      "key": "southern-live-oak",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Southern live oak",
+        "extra": "Quercus virginiana. Massive, nearly evergreen oak with a short trunk and huge horizontal limbs, often wider than the tree is tall, draped in Spanish moss and resurrection fern. Small leathery leaves. Georgia's state tree.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/FL_Volusia_Oak03.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "spanish-moss",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Spanish moss",
+        "extra": "Tillandsia usneoides. Not a moss but a flowering bromeliad, a pineapple relative, hanging in gray festoons from live oaks and cypresses. Absorbs water and nutrients from the air; it is not a parasite.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Spanish_moss_at_the_Mcbryde_Garden_in_hawaii.jpg?width=640"
+      },
+      "tags": [
+        "plants::epiphyte"
+      ]
+    },
+    {
+      "key": "southern-magnolia",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Southern magnolia",
+        "extra": "Magnolia grandiflora. Evergreen with big glossy leaves, often rusty-felted beneath, and plate-sized fragrant white flowers in late spring. Cone-like pods release bright red seeds. Mississippi's state tree.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Magn%C3%B2lia_a_Verbania.JPG?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "bald-cypress",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Bald cypress",
+        "extra": "Taxodium distichum. Deciduous conifer of swamps: its needles turn rusty orange and drop in fall, hence \"bald\". Buttressed trunk with woody \"knees\" poking up from the water around it. Louisiana's state tree.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Bald_Cypress_Swamp_at_FLSP_(5249362232).jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "cabbage-palmetto",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Cabbage palmetto",
+        "extra": "Sabal palmetto. Tall fan palm whose trunk is often crisscrossed with old leaf bases (\"bootjacks\"). State tree of Florida and of South Carolina, where it appears on the state flag.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Spalmetto2.JPG?width=640"
+      },
+      "tags": [
+        "plants::tree",
+        "plants::palm"
+      ]
+    },
+    {
+      "key": "crape-myrtle",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Crape myrtle",
+        "extra": "Lagerstroemia indica. Asian import that is the signature summer-flowering tree of the South: crinkled pink, purple, red, or white flower clusters and smooth, peeling, mottled tan bark. Often harshly topped (\"crape murder\").",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Extremosa_(Lagerstroemia_indica)_em_um_fim_de_tarde_em_Bag%C3%A9-RS_-_55013179934.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "kudzu",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Kudzu",
+        "extra": "Pueraria montana. Invasive Asian vine with leaves of three large leaflets and purple, grape-scented flowers. Can grow a foot a day in summer, smothering trees and power poles. Once planted by the government for erosion control.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Kudzu_on_trees_in_Atlanta,_Georgia.jpg?width=640"
+      },
+      "tags": [
+        "plants::vine",
+        "plants::invasive"
+      ]
+    },
+    {
+      "key": "flowering-dogwood",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Flowering dogwood",
+        "extra": "Cornus florida. Small understory tree whose \"petals\" are four notched white bracts around a tiny cluster of true flowers; red berries and scarlet leaves in fall. State tree of Virginia and Missouri; state flower of North Carolina and Virginia.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornus_florida_Arkansas.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "longleaf-pine",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Longleaf pine",
+        "extra": "Pinus palustris. Needles up to 18 inches long in bundles of three. Seedlings spend years in a fire-resistant \"grass stage\", then shoot up as a branchless \"bottlebrush\". Its savannas once covered about 90 million acres; less than a tenth survives. Alabama's state tree.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinus_palustris_needles_(01).jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "loblolly-pine",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Loblolly pine",
+        "extra": "Pinus taeda. The South's most common and commercially important pine: needles 6 to 9 inches long in bundles of three, and cones armed with sharp prickles. Vs longleaf: loblolly's needles and cones are far smaller.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Loblolly_Pines_South_Mississippi.JPG?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "pecan",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Pecan",
+        "extra": "Carya illinoinensis. Tall hickory with long compound leaves of 9 to 17 slender, curved leaflets and thin-shelled nuts in four-ribbed husks. Native to the Mississippi valley and Texas, whose state tree it is.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Carya_illinoinensis_foliagenuts1.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "sweetgum",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Sweetgum",
+        "extra": "Liquidambar styraciflua. Glossy star-shaped leaves with five to seven pointed lobes that turn red, orange, and purple in fall; spiky \"gumballs\" carpet the ground. Vs maples: sweetgum leaves alternate along the twig, maple leaves are paired.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Sweetgum_Liquidambar_styraciflua_Fruit_Leaves_2500px.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "poison-ivy",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Poison ivy",
+        "extra": "Toxicodendron radicans. \"Leaves of three, let it be\": three leaflets, the middle one on a longer stalk; climbs trees on hairy rootlets. Its urushiol oil causes itchy rashes, even from dead vines. Virginia creeper has five leaflets.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/2020-08-28_17_48_03_Poison_Ivy_leaves_and_immature_fruit_in_late_summer_along_a_walking_path_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg?width=640"
+      },
+      "tags": [
+        "plants::vine"
+      ]
+    },
+    {
+      "key": "tulip-tree",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Tulip tree",
+        "extra": "Liriodendron tulipifera. Tall, straight-trunked tree with four-lobed leaves squared off at the tip like a tulip silhouette, and orange-and-green tulip-shaped flowers. State tree of Tennessee and Kentucky; not a true poplar.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Tulip_tree_(Liriodendron_tulipifera)_in_Munich_(3).jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "eastern-redbud",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Eastern redbud",
+        "extra": "Cercis canadensis. Small tree that blooms magenta-pink along bare twigs and even its trunk in early spring, before the heart-shaped leaves appear. Oklahoma's state tree.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/RedbudOhio02.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "chinese-wisteria",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Chinese wisteria",
+        "extra": "Wisteria sinensis. Invasive woody vine with long hanging clusters of fragrant lavender flowers in early spring; strangles and topples trees. Native American wisteria blooms later, with shorter, rounder clusters.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinesischer_Blauregen_Detail_Bl%C3%BCtentraube.JPG?width=640"
+      },
+      "tags": [
+        "plants::vine",
+        "plants::invasive"
+      ]
+    },
+    {
+      "key": "carolina-jessamine",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Carolina jessamine",
+        "extra": "Gelsemium sempervirens. Evergreen vine with fragrant, bright yellow trumpet flowers in late winter, climbing fences and pines. All parts are highly poisonous. South Carolina's state flower.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Gelsemium_sempervirens3.jpg?width=640"
+      },
+      "tags": [
+        "plants::vine"
+      ]
+    },
+    {
+      "key": "saw-palmetto",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Saw palmetto",
+        "extra": "Serenoa repens. Low, shrubby fan palm with creeping trunks that form dense thickets in Florida flatwoods; leaf stalks are lined with sharp saw-teeth. Vs dwarf palmetto: its leaf stalks are smooth.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Serenoa_repens_USDA1.jpg?width=640"
+      },
+      "tags": [
+        "plants::shrub",
+        "plants::palm"
+      ]
+    },
+    {
+      "key": "american-sycamore",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "American sycamore",
+        "extra": "Platanus occidentalis. Huge bottomland tree with camouflage bark that peels away to reveal bright white upper limbs; broad maple-like leaves and dangling round seed balls.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Sycamore_bark_-_Platanus_occidentalis,_Leesylvania_State_Park,_Woodbridge,_Virginia.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "venus-flytrap",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Venus flytrap",
+        "extra": "Dionaea muscipula. Carnivorous plant found in the wild only in bogs and savannas of the coastal Carolinas. Its hinged leaf traps snap shut when trigger hairs inside are touched twice in quick succession.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_Flytrap_showing_trigger_hairs.jpg?width=640"
+      },
+      "tags": [
+        "plants::carnivorous"
+      ]
+    },
+    {
+      "key": "yellow-pitcher-plant",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Yellow pitcher plant",
+        "extra": "Sarracenia flava. Carnivorous bog plant with tall yellow-green trumpet leaves topped by a hooded lid. Insects lured by nectar slip inside and drown. Grows in wet longleaf pine savannas.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarracenia_flava_(19317814192).jpg?width=640"
+      },
+      "tags": [
+        "plants::carnivorous"
+      ]
+    },
+    {
+      "key": "trumpet-creeper",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Trumpet creeper",
+        "extra": "Campsis radicans. Aggressive native vine with compound leaves and clusters of orange-red trumpet flowers that hummingbirds love. Nicknamed \"cow itch\" because its leaves can irritate the skin.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Campsis_radicans_-_Trumpet_Creeper.jpg?width=640"
+      },
+      "tags": [
+        "plants::vine"
+      ]
+    },
+    {
+      "key": "muscadine",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Muscadine",
+        "extra": "Vitis rotundifolia. Native southern grape with round, coarsely toothed leaves and thick-skinned bronze or dark purple fruit. The scuppernong, a bronze variety, is North Carolina's state fruit.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Vitis_rotundifolia.jpg?width=640"
+      },
+      "tags": [
+        "plants::vine"
+      ]
+    },
+    {
+      "key": "yaupon-holly",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Yaupon holly",
+        "extra": "Ilex vomitoria. Evergreen shrub with small oval, round-toothed leaves and glossy red berries. The only caffeinated plant native to North America; brewed by Native Americans as the ceremonial \"black drink\".",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilex_vomitoria.jpg?width=640"
+      },
+      "tags": [
+        "plants::shrub"
+      ]
+    },
+    {
+      "key": "american-holly",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "American holly",
+        "extra": "Ilex opaca. Evergreen tree with stiff, spiny-edged, dull green leaves and red berries on female trees in winter. Vs yaupon: yaupon's leaves are small with rounded teeth, not spines.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilex_opaca_USDA.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "water-oak",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Water oak",
+        "extra": "Quercus nigra. Fast-growing, nearly evergreen oak with small spatula-shaped leaves widest at the tip, often with three shallow lobes. A common yard and street tree across the South.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Quercus_nigra_USDA.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "willow-oak",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Willow oak",
+        "extra": "Quercus phellos. Oak with narrow, willow-like leaves and tiny acorns; a classic street tree in southern cities. Its leaves have no lobes or teeth, just a bristle tip.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Quercus_phellos_5424061.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "southern-wax-myrtle",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Southern wax myrtle",
+        "extra": "Morella cerifera (also Myrica cerifera). Evergreen shrub with narrow, aromatic, resin-dotted leaves. Waxy blue-gray berries on female plants were boiled down by colonists for bayberry candle wax.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Starr_031108-0157_Morella_cerifera.jpg?width=640"
+      },
+      "tags": [
+        "plants::shrub"
+      ]
+    },
+    {
+      "key": "american-persimmon",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "American persimmon",
+        "extra": "Diospyros virginiana. Tree with blocky, alligator-hide bark and orange fruit that is mouth-puckeringly astringent until it is fully ripe and mushy-soft in fall.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Diospyros_virginiana-fruit.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "sassafras",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Sassafras",
+        "extra": "Sassafras albidum. Three leaf shapes on one tree: unlobed oval, mitten, and three-lobed. Every part is spicy-fragrant. Its roots once flavored root beer; dried, ground leaves are the filé powder in gumbo.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sassafras_Leaves_June_Nbg_(261691941).jpeg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "eastern-red-cedar",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Eastern red cedar",
+        "extra": "Juniperus virginiana. Not a true cedar but a juniper: dense, conical evergreen with scaly foliage and frosty blue berry-like cones. Quickly takes over old fields and pastures.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Juniperus_virginiana_berries.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "southern-catalpa",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Southern catalpa",
+        "extra": "Catalpa bignonioides. Huge heart-shaped leaves, showy white orchid-like flower clusters in late spring, and long bean-like seed pods. Host of the catalpa sphinx, whose caterpillars are prized fishing bait.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Catalpa_bignonioides_inflorescence.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "honey-mesquite",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Honey mesquite",
+        "extra": "Neltuma glandulosa (formerly Prosopis glandulosa). Thorny, often multi-trunked tree of Texas rangeland with feathery compound leaves, yellow catkin-like flowers, and long sweet bean pods. Its wood gives Texas barbecue its classic smoke.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Prosopis-glandulosa-foliage.JPG?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "red-mangrove",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Red mangrove",
+        "extra": "Rhizophora mangle. Coastal tree of South Florida standing in salt water on arching stilt roots. Its pencil-shaped seedlings sprout while still hanging on the parent tree.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhizophora_mangle_(prop_roots).jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "gumbo-limbo",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Gumbo limbo",
+        "extra": "Bursera simaruba. South Florida tree with shiny copper-red bark that peels in papery sheets, nicknamed the \"tourist tree\" because it is red and peeling.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sonnenbrandbaum1.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree"
+      ]
+    },
+    {
+      "key": "chinese-tallow",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Chinese tallow",
+        "extra": "Triadica sebifera. Invasive Asian tree with diamond- to heart-shaped leaves tapering to a point, brilliant fall color, and waxy white seeds (\"popcorn tree\"). Overruns Gulf Coast prairies and marshes.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Tallow2232.JPG?width=640"
+      },
+      "tags": [
+        "plants::tree",
+        "plants::invasive"
+      ]
+    },
+    {
+      "key": "mimosa",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Mimosa",
+        "extra": "Albizia julibrissin. Also called silk tree. Invasive Asian tree with feathery, fern-like leaves and fluffy pink pom-pom flowers in summer, followed by flat bean pods.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/2018-07-08_11_10_27_Rosea_Mimosa_blossoms_along_the_ramp_from_southbound_Interstate_95_(New_Jersey_Turnpike_Eastern_Spur)_to_westbound_Interstate_280_(Essex_Freeway)_in_the_New_Jersey_Meadowlands,_within_Kearny,_Hudson_County,_New_Jersey.jpg?width=640"
+      },
+      "tags": [
+        "plants::tree",
+        "plants::invasive"
+      ]
+    },
+    {
+      "key": "callery-pear",
+      "model": "basic",
+      "fields": {
+        "front": "What tree is this?",
+        "back": "Callery pear",
+        "extra": "Pyrus calleryana. The \"Bradford pear\": an Asian ornamental smothered in foul-smelling white blossoms in early spring. Its offspring escape into dense, thorny thickets, and several states now ban its sale.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrus_calleryana.JPG?width=640"
+      },
+      "tags": [
+        "plants::tree",
+        "plants::invasive"
+      ]
+    },
+    {
+      "key": "resurrection-fern",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Resurrection fern",
+        "extra": "Pleopeltis polypodioides. Fern that grows on live oak limbs and curls up brown and seemingly dead in drought, then turns green again within hours of rain.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/GreenPolypods.jpg?width=640"
+      },
+      "tags": [
+        "plants::epiphyte"
+      ]
+    },
+    {
+      "key": "oakleaf-hydrangea",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Oakleaf hydrangea",
+        "extra": "Hydrangea quercifolia. Native shrub with large oak-shaped leaves, cone-shaped clusters of white flowers that age to pink, and peeling cinnamon bark. Alabama's state wildflower.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Hydrangea_quercifolia_BhamBotGdn.jpg?width=640"
+      },
+      "tags": [
+        "plants::shrub"
+      ]
+    },
+    {
+      "key": "camellia",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Camellia",
+        "extra": "Camellia japonica. Asian evergreen shrub with glossy dark leaves and rose-like red, pink, or white flowers that bloom in the dead of winter. Alabama's state flower.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Camellia_japonica_NBG.jpg?width=640"
+      },
+      "tags": [
+        "plants::shrub"
+      ]
+    },
+    {
+      "key": "texas-bluebonnet",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Texas bluebonnet",
+        "extra": "Lupinus texensis. Lupine with spikes of deep blue flowers, each with a white spot that turns reddish after pollination. Blankets Texas roadsides in spring; the state flower of Texas.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Bluebonnet-8100.jpg?width=640"
+      },
+      "tags": [
+        "plants::wildflower"
+      ]
+    },
+    {
+      "key": "indian-blanket",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Indian blanket",
+        "extra": "Gaillardia pulchella. Daisy-like wildflower with red petals tipped in yellow around a maroon center, carpeting sandy roadsides and dunes. Oklahoma's state wildflower.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaillardia_in_Aspen_(91273).jpg?width=640"
+      },
+      "tags": [
+        "plants::wildflower"
+      ]
+    },
+    {
+      "key": "purple-passionflower",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Purple passionflower",
+        "extra": "Passiflora incarnata. The \"maypop\": vine with intricate lavender flowers ringed by a fringe of wavy filaments, and egg-shaped fruit that pops when stepped on. Tennessee's state wildflower.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Passiflora_incarnata_003.JPG?width=640"
+      },
+      "tags": [
+        "plants::vine",
+        "plants::wildflower"
+      ]
+    },
+    {
+      "key": "cherokee-rose",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Cherokee rose",
+        "extra": "Rosa laevigata. Climbing rose with large white five-petaled flowers and golden centers, naturalized across the South. Georgia's state flower, though it is native to China.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Cherokee_rose.jpg?width=640"
+      },
+      "tags": [
+        "plants::vine"
+      ]
+    },
+    {
+      "key": "eastern-prickly-pear",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Eastern prickly pear",
+        "extra": "Opuntia humifusa. Low, sprawling cactus of sandy soils and dunes with flat green pads, showy yellow flowers, and red edible fruit. Tiny barbed bristles (glochids) are harder to remove than the spines.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Prickly_pear_MN_2007.JPG?width=640"
+      },
+      "tags": [
+        "plants::wildflower"
+      ]
+    },
+    {
+      "key": "spanish-bayonet",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Spanish bayonet",
+        "extra": "Yucca aloifolia. Stiff, sword-like leaves with needle-sharp tips on a branching trunk, topped by spikes of creamy white bell flowers. Grows on coastal dunes and is planted in yards across the South.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Yucca-aloifolia-20071002-2.jpg?width=640"
+      },
+      "tags": [
+        "plants::shrub"
+      ]
+    },
+    {
+      "key": "sea-oats",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Sea oats",
+        "extra": "Uniola paniculata. Tall dune grass with drooping clusters of flat golden seed heads. Its roots build and hold barrier-island dunes, and picking it is illegal in several southern states.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Uniola_paniculata_(plume).jpg?width=640"
+      },
+      "tags": [
+        "plants::wildflower"
+      ]
+    },
+    {
+      "key": "water-hyacinth",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Water hyacinth",
+        "extra": "Pontederia crassipes (formerly Eichhornia crassipes). South American floating plant with glossy leaves on swollen, spongy stalks and lavender flowers marked with a yellow spot. One of the world's worst aquatic weeds, choking Gulf Coast waterways.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eichhornia_crassipes_C.jpg?width=640"
+      },
+      "tags": [
+        "plants::aquatic",
+        "plants::invasive"
+      ]
+    },
+    {
+      "key": "american-lotus",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "American lotus",
+        "extra": "Nelumbo lutea. Pale yellow flowers and huge round leaves held high above the water, followed by seed pods shaped like shower heads.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelumbo_lutea.jpg?width=640"
+      },
+      "tags": [
+        "plants::aquatic"
+      ]
+    },
+    {
+      "key": "american-beautyberry",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "American beautyberry",
+        "extra": "Callicarpa americana. Woodland shrub with tight clusters of glossy magenta-purple berries ringing the stem at each pair of leaves in fall. Crushed leaves are a folk mosquito repellent.",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Callicarpa_americana_infructescence.jpg?width=640"
+      },
+      "tags": [
+        "plants::shrub"
+      ]
+    },
+    {
+      "key": "pokeweed",
+      "model": "basic",
+      "fields": {
+        "front": "What plant is this?",
+        "back": "Pokeweed",
+        "extra": "Phytolacca americana. Tall weed with magenta stems and drooping clusters of dark purple berries. All parts are poisonous, though young shoots were traditionally boiled several times for \"poke sallet\".",
+        "frontImage": "https://commons.wikimedia.org/wiki/Special:FilePath/2025-08-29_D500-0556_Achim-Lammerts_Kermesbeeren-Phytolacca-americana.jpg?width=640"
+      },
+      "tags": [
+        "plants::wildflower"
+      ]
+    }
+  ]
+}
